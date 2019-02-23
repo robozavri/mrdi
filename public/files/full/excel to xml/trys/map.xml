@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<record>
+	<region></region>
+	<municipalitet></municipalitet>
+	<project_title></project_title>
+	<ganxorcielebis_adgili></ganxorcielebis_adgili>
+	<category></category>
+	<project_expsne_doc></project_expsne_doc>
+	<gov_budget_local></gov_budget_local>
+	<source_funding></source_funding>
+	<funding_year></funding_year>
+	<date_government_ordinance></date_government_ordinance>
+	<numer_government_ordinance></numer_government_ordinance>
+	<year_compensation_amount></year_compensation_amount>
+	<mony_todo_project></mony_todo_project>
+	<co_funding></co_funding>
+	<co_funding_procent></co_funding_procent>
+	<buying_purchase></buying_purchase>
+	<current_tender_number></current_tender_number>
+	<tender_announcement_date></tender_announcement_date>
+	<date_completion_proposals></date_completion_proposals>
+	<date_signing_contract></date_signing_contract>
+	<tender_status></tender_status>
+	<project_duration></project_duration>
+	<contractual_value></contractual_value>
+	<contractual_value_rgpf></contractual_value_rgpf>
+	<job_start_date></job_start_date>
+	<job_finish_date></job_finish_date>
+	<job_finish_date_deferreded></job_finish_date_deferreded>
+	<actual_performance_procent></actual_performance_procent>
+	<actual_performance_lari></actual_performance_lari>
+	<cash_performance_cofinancing_lari></cash_performance_cofinancing_lari>
+	<cash_performance_only_rgpf></cash_performance_only_rgpf>
+	<Amount_transferred_municipality></Amount_transferred_municipality>
+	<amount_transferred_by_municipality></amount_transferred_by_municipality>
+	<given_advance></given_advance>
+	<remaining_retirement></remaining_retirement>
+	<acceptance_and_delivery></acceptance_and_delivery>
+	<note></note>
+	<tender_winner_company_title></tender_winner_company_title>
+	<tender_winner_company_contact></tender_winner_company_contact>
+	<fine_amount></fine_amount>
+	<quantitative_indicator></quantitative_indicator>
+	<count_beneficiaries_direct></count_beneficiaries_direct>
+	<reg_economy></reg_economy>
+	<adg_economy></adg_economy>
+	<intensity_tender_failure></intensity_tender_failure>
+	<Intensification_tender_appeal></Intensification_tender_appeal>
+	<count_bidders_participating_tender></count_bidders_participating_tender>
+</record>
+
+
+	<record>
+		<region></region>
+		<municipalitet></municipalitet>
+		<project_title></project_title>
+		<ganxorcielebis_adgili></ganxorcielebis_adgili>
+		<category></category>
+		<project_expsne_doc></project_expsne_doc>
+		<gov_budget_local></gov_budget_local>
+		<source_funding></source_funding>
+		<funding_year></funding_year>
+		<date_government_ordinance></date_government_ordinance>
+		<numer_government_ordinance></numer_government_ordinance>
+		<year_compensation_amount></year_compensation_amount>
+		<mony_todo_project></mony_todo_project>
+		<co_funding></co_funding>
+		<co_funding_procent></co_funding_procent>
+		<buying_purchase></buying_purchase>
+		<current_tender_number></current_tender_number>
+		<tender_announcement_date></tender_announcement_date>
+		<date_completion_proposals></date_completion_proposals>
+		<date_signing_contract></date_signing_contract>
+		<tender_status></tender_status>
+		<project_duration></project_duration>
+		<contractual_value></contractual_value>
+		<contractual_value_rgpf></contractual_value_rgpf>
+		<job_start_date></job_start_date>
+		<job_finish_date></job_finish_date>
+		<job_finish_date_deferreded></job_finish_date_deferreded>
+		<actual_performance_procent></actual_performance_procent>
+		<actual_performance_lari></actual_performance_lari>
+		<cash_performance_cofinancing_lari></cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf></cash_performance_only_rgpf>
+		<Amount_transferred_municipality></Amount_transferred_municipality>
+		<amount_transferred_by_municipality></amount_transferred_by_municipality>
+		<given_advance></given_advance>
+		<remaining_retirement></remaining_retirement>
+		<acceptance_and_delivery></acceptance_and_delivery>
+		<note></note>
+		<tender_winner_company_title></tender_winner_company_title>
+		<tender_winner_company_contact></tender_winner_company_contact>
+		<fine_amount></fine_amount>
+		<quantitative_indicator></quantitative_indicator>
+		<count_beneficiaries_direct></count_beneficiaries_direct>
+		<reg_economy></reg_economy>
+		<adg_economy></adg_economy>
+		<intensity_tender_failure></intensity_tender_failure>
+		<Intensification_tender_appeal></Intensification_tender_appeal>
+		<count_bidders_participating_tender></count_bidders_participating_tender>
+</record>
+
+</data-set>

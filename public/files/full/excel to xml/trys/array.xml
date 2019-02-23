@@ -1,0 +1,97 @@
+       'რეგიონი' => '',          
+            'მუნიციპალიტეტი'        => '',
+            'პროექტის დასახელება'    => '',
+            'განხორციელების ადგილი'  => '',
+            'კატეგორია'           => '',
+            'საპროექტო-სახარჯთაღრიცხვო დოკუმენტაცია' => '',
+            'სახელმწიფო ბიუჯეტი/ ადგილობრივი ბიუჯეტი' => '',
+            'დაფინანსების წყარო'  => '',
+            'სამუშაოს სახეობა მშენებლობა/რეაბილიტაცია' => 'kind_job_bild',
+            'დაფინანსების წელი' => '',
+            'მთავრობის განკარგულების გამოცემის თარიღი' => '',   
+            'მთავრობის განკარგულების ნომერი' => '',
+            'პროექტის მთლიანი ღირებულების ფარგლებში მიმდინარე წელს ასანაზღაურებელი თანხები'                 => '',
+            'პროექტის განხორციელებისათვის გამოყოფილი თანხა' => '',
+            'თანადაფინანსება'                 => '',
+            'თანადაფინანსება (%)'              => '',
+            'შესყიდვის საშუალება'      => '',
+            'მიმდინარე ტენდერის ნომერი' => '',
+            'ტენდერის გამოცხადების თარიღი' => '',
+            'წინადადებების მიღების დასრულების თარიღი' => '',
+            'ხელშეკრულების დადების თარიღი'                 => '',
+            'ტენდერის სტატუსი'                 => '',
+            'პროექტის ხანგრძლივობა (ერთწლისანი / მრვალწლიანი)' => '',
+            'სახელშეკრულებო ღირებულება'                 => '',
+            'სახელშეკრულებო ღირებულება რგპფ-ს ნაწილი' => '',
+            'სამუშაოების დაწყების თარიღი'                 => '',
+            'სამუშაოების დასრულების თარიღი'                 => '',
+            'სამუშაოების დასრულების თარიღი (გადავადებული)'  => '',
+            'ფაქტიური შესრულება (%)'  => '',
+            'ფაქტიური შესრულება (ლარი)' => '',
+            'საკასო შესრულება თანადაფინანსების გათვალისწინებით (ლარი)' => '',
+            'საკასო შესრულება მხოლოდ რგპფ-ს ნაწილი (ლარი)' => '',
+            'მუნიციპალიტეტისთვის ჩარიცხული თანხა' => '',
+            'მუნიციპალიტეტის მიერ გადარიცხული თანხა' => '',
+            'გაცემული ავანსი'                 => '',
+            'დარჩენილი დასაკავებელი ავანსი' => '',
+            'განხორციელებულია მიღება-ჩაბარება (კი/არა)' => '',
+            'შენიშვნა'                 => '',
+            'ტენდერში გამარჯვებული კომპანიის დასახელება და საკონტაქტო ინფორმაცია'                 => '',
+            'ტენდერში გამარჯვებული კომპანიის დასახელება და საკონტაქტო ინფორმაცია'                 => '',
+            'ჯარიმის თანხა'                 => '',
+            'რაოდენობრივი მაჩვენებელი (გრძივე მეტრი ან შენობების რაოდენობა)'                 => '',
+            'ბენეფიციართა რაოდენობა (პირდაპირი)' => '',
+            'ბენეფიციართა რაოდენობა (არაპირდაპირი)' => '',
+            'რეგ. ეკონომია'                 => '',
+            'ადგ. ეკონომია'                 => '',
+            'ტენდერის ჩავარდნის ინტენსივობა'  => '',
+            'ტენდერის გასაჩივრების ინტენსივობა' => '',
+            'ტენდერში მონაწილე პრეტენდენტების რაოდენობა' => '',
+
+            region
+municipalitet
+project_title
+ganxorcielebis_adgili
+category
+project_expsne_doc
+gov_budget_local
+source_funding
+funding_year
+date_government_ordinance
+numer_government_ordinance
+year_compensation_amount
+mony_todo_project
+co_funding
+co_funding_procent
+buying_purchase
+current_tender_number
+tender_announcement_date
+date_completion_proposals
+date_signing_contract
+tender_status
+project_duration
+contractual_value
+contractual_value_rgpf
+job_start_date
+job_finish_date
+job_finish_date_deferreded
+actual_performance_procent
+actual_performance_lari
+cash_performance_cofinancing_lari
+cash_performance_only_rgpf
+Amount_transferred_municipality
+amount_transferred_by_municipality
+given_advance
+remaining_retirement
+acceptance_and_delivery
+note
+tender_winner_company_title
+tender_winner_company_contact
+fine_amount
+quantitative_indicator
+count_beneficiaries_direct
+reg_economy
+adg_economy
+intensity_tender_failure
+Intensification_tender_appeal
+count_bidders_participating_tender

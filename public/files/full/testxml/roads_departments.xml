@@ -1,0 +1,3049 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Pavle Gamkrelidze</Author>
+  <LastAuthor>Windows User</LastAuthor>
+  <LastPrinted>2018-07-11T08:20:53Z</LastPrinted>
+  <Created>2018-07-10T10:36:49Z</Created>
+  <LastSaved>2018-07-12T08:39:48Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11835</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ActiveSheet>2</ActiveSheet>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s17" ss:Name="Hyperlink">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#0563C1"
+    ss:Underline="Single"/>
+  </Style>
+  <Style ss:ID="s16" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" x:CharSet="204" x:Family="Swiss"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m2916715714672">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="m2916715714692">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="m2916715718368">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="m2916715718388">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s21">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="9" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s22">
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Bold="1"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Bold="1"/>
+   <Interior ss:Color="#BFBFBF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"
+    ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s32">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadMtavr" ss:Size="11" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11"/>
+   <Interior/>
+   <NumberFormat ss:Format="#,##0"/>
+  </Style>
+  <Style ss:ID="s35">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s36">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s39">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s40">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s41">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s42">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s43">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s44">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="12" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s45" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s46" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s47" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="12"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s48">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s49">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s50" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="12"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s51">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s52" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Times New Roman" x:Family="Roman" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s53" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s55">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s56" ss:Parent="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s57">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#222222"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s58">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s59">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s60">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#000000"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s61">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#404040"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s67">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="11" ss:Color="#222222"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s70">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadMtavr" ss:Size="11" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat ss:Format="Fixed"/>
+  </Style>
+  <Style ss:ID="s71">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s72">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s73">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s74">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s75">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s76">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s77">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s78">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s79">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s80">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s81">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s84">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s85">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s86">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8"/>
+   <Interior/>
+   <NumberFormat ss:Format="0.0"/>
+  </Style>
+  <Style ss:ID="s87">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s88">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s89">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8" ss:Color="#000000"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s93">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s94">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="8"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s95">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s96">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s97">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s98">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s99">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="@"/>
+  </Style>
+  <Style ss:ID="s100">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s101">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s102">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s103">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s104">
+   <Alignment ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s105">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s106">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s107">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="#,##0.0"/>
+  </Style>
+  <Style ss:ID="s108">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s109">
+   <Alignment ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="AcadNusx"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Standard"/>
+  </Style>
+  <Style ss:ID="s112">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"
+    ss:ReadingOrder="LeftToRight" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Swiss" ss:Bold="1"/>
+   <Interior ss:Color="#FFD966" ss:Pattern="Solid"/>
+   <NumberFormat/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="სტიქია-პრევენცია">
+  <Names>
+   <NamedRange ss:Name="Print_Area" ss:RefersTo="='სტიქია-პრევენცია'!R1C1:R19C10"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="19" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s22">
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="34.5"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="416.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="101.25" ss:Span="6"/>
+   <Column ss:Index="10" ss:StyleID="s25" ss:AutoFitWidth="0" ss:Width="101.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="91.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="50.0625">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">N</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">დასახელება</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">დაფინანსების წყარო</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">კონტრაქტორი კომპანია</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">სახელშეკრულებო ღირებულება (ათასი. ლარი)</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">შესრულება ნაზარდი ჯამით (ათასი. ლარი)</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ნაშთი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">დაწყება</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">დასრულება</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">შენიშვნა</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="23.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">1</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">7</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">9</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30.75" ss:StyleID="s20">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2916715714672"><Data ss:Type="String">მიმდინარე</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s18"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s18"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s18"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s18"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s18"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s18"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s18"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s19"><NamedCell ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">1</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="String">შიდასახელმწიფოებრივი მნიშვნელობის (შ-7) ზუგდიდი - ჯვარი - მესტია - ლასდილის საავტომობილო გზის 109-ე კმ-ზე (კმ108+092 კმ108+282;კმ108+334კმ108+900) დაზიანებული მიწის ვაკისის ჩაწყვეტის საწინააღმდეგო პრევენციული ღონისძიებების სამუშაოები (ეტაპი II)</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s45"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;სახარია&quot;</ss:Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">3323.6</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">2782</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">541.59999999999991</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">03.05.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">31.07.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ზუგდიდი-ჯვარი-მესტია-ლასდილის საავტომობილო გზის 135-ე კმ-ზე დაზიანებული საყრდენი კედლის აღდგენის სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">შპს &quot;კოლხიდა&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">196.9</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">149.4</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">47.5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">15.12.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">16.07.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ზუგდიდი-ჯვარი-მესტია-ლასდილის საავტომობილო გზის 136-ე კმ-ზე ფერდობის სტაბილიზაციის მიზნით ჩასატარებელი პრევენციული ღონისძიებების სამუშაოები </Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">შპს &quot;კოლხიდა&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">287.8</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">240.6</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">47.200000000000017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">15.12.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">16.07.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">4</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s41"><Data ss:Type="String">ზუგდიდი-ჯვარი-მესტია-ლასდილის ს/გზის კმ103; კმ107; კმ108; კმ111; კმ126; კმ127 მონაკვეთებზე მიწის ვაკისის ჩაწყვეტის საწინააღმდეგო პრევენციული ღონისძიებების სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s45"><Data ss:Type="String">შპს &quot;მამისონი&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">6495.4</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">2756.7</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">3738.7</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">27.12.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">22.12.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s42"><Data ss:Type="String">ქუთაისი-ალპანა-მამისონის უღელტეხილის საავტომობილო გზის კმ83+650-კმ84+700 მონაკვეთზე წყლის აცილების მიზნით ჩასატარებელი პრევენციული ღინისძიებების სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s49"><Data ss:Type="String">შპს &quot;გია კონსტრაქშენ&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">297.8</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">297.8</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">29.03.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">29.07.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ქუთაისი-ალპანა-მამისონის უღელტეხილის საავტომობილო გზის მე-100-ე კმ-ზე სორისღელეზე არსებული მილის კვეთის გაზრდის მიზნით ჩასატარებელი პრევენციული ღონისძიებების სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">შპს &quot;მიმდემი&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">739.5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">739.5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">19.04.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">19.10.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">7</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ქუთაისი(წყალტუბოს გადასახვევი)-წყალტუბო-ცაგერი-ლენტეხი-ლასდილის ს/გზის კმ91-კმ92 მონაკვეთზე მიწის ვაკისის გამორეცხვის საწინააღმდეგო პრევენციული ღონისძიებების სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s50"><Data ss:Type="String">შპს &quot;ონიქს როუდი&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">2276.6</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">431.1</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">1845.5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">30.04.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">30.11.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="78.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">8</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s43"><Data ss:Type="String">საერთაშორისო მნიშვნელობის სენაკი-ფოთი-სარფის (თურქეთის რესპუბლიკის საზღვარი) ს/გზის 118+400 კმ-ზე ფერდობის სტაბილიზაციის მიზნით ჩასატარებელი პრევენციული ღონისძიებების სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s50"><Data ss:Type="String">შპს &quot;ზადუ&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">299448.92</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">69676.17</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">229772.75</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">25.05.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">25.09.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="76.5">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">9</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s44"><Data ss:Type="String">ფშაველი-აბანო-ომალოს საავტომობილო გზის 56-ე კმ-ში ავტოტრანსპორტის მოძრაობის აღდგენის დროებითი პრევენციული ღონისძიებების სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">შპს &quot;გერალი&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">900</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">900</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">17.05.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">30.07.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები პროექტის პარალელურ რეჟიმში</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="76.5">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ბათუმი(ანგისა)-ახალციხის საავტომობილო გზის კმ99+100-ზე მდ. საფრისწყალზე მეწყრული პროცესების შედეგად დაზიანებული არსებული ღვარცოფგამტარის-სახიდე გადასასვლელისა და მიწის ვაკისის  აღდგენის დროებითი პრევენციული სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s47"><Data ss:Type="String">შპს &quot;ჯორჯიან ენერჯი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">2000</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">2000</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">30.05.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">30.08.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="String">მიმდინარეობს სამუშაოები პროექტის პარალელურ რეჟიმში</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="30.75" ss:StyleID="s20">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2916715714692"><Data ss:Type="String">დასრულებული ობიექტები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s35"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s35"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s35"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s35"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s35"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s35"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s35"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s36"><NamedCell ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">1</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ბათუმი(ანგისა)-ახალციხის საავტომობილო გზის 30-ე კმ-ზე  ფერდობის სტაბილიზაციის მიზნით ჩასატარებელი დამატებითი პრევენციული ღონისძიებების სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s46"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;ზადუ&quot;<B> </B></ss:Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">74</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">73.8</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">11.12.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">14.03.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">დასრულდა</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">საერთაშორისო მნიშვნელობის მარნეული-სადახლოს (სომხეთის რესპუბლიკის საზღვარი) საავტომობილო გზის მე-7 კმ-ში მოძრაობის უსაფრთხოების ასამაღლებელი პრევენციული ღონისძიებების გატარების მიზნით მიწისქვეშა გადასასვლელის (საქონლის გადასარეკის) მოწყობის სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s45"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"> შპს პრიორიტეტი</ss:Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">244.1</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">232.5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">12.10.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">15.02.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">დასრულდა</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">მათხოჯი-ხიდი-გორდი-კინჩხას საავტომობილო გზის მე-19-ე კმ-ზე დაზიანებული მიწის ვაკისის აღდგენის სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s52"><Data ss:Type="String">შპს ა.ლ.მ. ევროტექნიკსი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">109.5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">104.3</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">22.11.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">20.02.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">დასრულდა</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">4</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ვაზიანი-გომბორი-თელავის საავტომობილო გზის 33-ე კმ-ზე (სოფ. გომბორი) დაზიანებული ქვედა საყრდენი კედლის აღდგენის სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s53"><Data ss:Type="String">შპს &quot;კვადრა გრუპი&quot;</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">204.1</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">199.5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">11.12.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">15.04.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">დასრულდა</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="66.75">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">შიდასახელმწიფოებრივი მნიშვნელობის ძირულა-ხარაგაული-მოლითი-ფონა-ჩუმათელეთის საავტომობილო გზის მე-7-ე კმ-ში ავტოტრანსპორტის მოძრაობის აღდგენის დროებითი პრევენციული ღონისძიებების სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s45"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;ორიენტირი&quot;</ss:Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">477.9</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s48"><Data ss:Type="Number">477.9</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s32"><Data ss:Type="Number">0</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">18.10.2017</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">31.05.2018</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s33"><Data ss:Type="String">დასრულდა</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.16"/>
+    <PageMargins x:Bottom="0.16" x:Left="0.36" x:Right="0.23" x:Top="0.75"/>
+   </PageSetup>
+   <Print>
+    <ValidPrinterInfo/>
+    <Scale>61</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>18</ActiveRow>
+     <ActiveCol>6</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="ნაპირდაცვა">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="18" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s22">
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="34.5"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="416.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="101.25" ss:Span="6"/>
+   <Column ss:Index="10" ss:StyleID="s25" ss:AutoFitWidth="0" ss:Width="101.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="91.5"/>
+   <Row ss:Height="45">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">დასახელება</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">დაფინანსების წყარო</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">კონტრაქტორი კომპანია</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">სახელშეკრულებო ღირებულება (ათასი. ლარი)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">შესრულება ნაზარდი ჯამით (ათასი. ლარი)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">ნაშთი</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">დაწყება</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">დასრულება</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">შენიშვნა</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25" ss:StyleID="s20">
+    <Cell ss:MergeAcross="1" ss:StyleID="s112"><Data ss:Type="String">მიმდინარე</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">ქ.ამბროლაურში მდინარე რიონის ხიდის ზემო და ქვემო სანაპირო ზოლში მდინარის ორივე სანაპიროზე ნაპირსამაგრი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;ბორან მაინინგი&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">1791.5</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">1331.7180000000001</Data></Cell>
+    <Cell ss:StyleID="s60" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">459.78199999999993</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">30.10.2017</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">25.07.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">დუშეთის მუნიციპალიტეტში ნაპირსამაგრი სამუშაოები&#10;1. დუშეთის მუნიციპალიტეტის სოფელი ახალი ტონჩა (აგარაკებთან), მდ. დუშეთის ხევიის სანაპირო ზონების ნაპირსამაგრი სამუშაოები&#10;2. დუშეთის მუნიციპალიტეტი, სოფ. ბაზალეთი, მდ. ბაზალეთის ხევის (ჩანჩიბაძის სახლთან) ნაპირსამაგრი სამუშაოები;</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;გრუპო პუენტე&quot;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">149.66</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">57.436</Data></Cell>
+    <Cell ss:StyleID="s63" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">92.22399999999999</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">06.03.2018</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">30.07.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">წყალტუბოს მუნიციპალიტეტის სოფელი ჟონეთში, მდ. რიონის კალაპოტში ნაპირსამაგრი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;ელიტ ბილდერს გრუპ&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">949.77700000000004</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">327.02699999999999</Data></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">622.75</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">05.03.2018</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">09.08.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">ზუგდიდის მუნიციპალიტეტი სოფ. ანაკლია სანაპირო ზოლის დროებითი ნაპირდაცვისა და ნაპირაღდგენითი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">ი/მ დავით სიჭინავა</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">1098.9929999999999</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">706.22299999999996</Data></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">392.77</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">14.03.2018</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">14.08.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">გარდაბნის მუნიციპალიტეტი,  „მზიურის დასახლება“  არსებული ნაპირსამაგრი ნაგებობის გაგრძელებაზე ჩასატარებელი ნაპირსამაგრი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;გზა 2008&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">364.33</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">41.98</Data></Cell>
+    <Cell ss:StyleID="s32" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">322.34999999999997</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">20.03.2018</Data></Cell>
+    <Cell ss:StyleID="s34"><Data ss:Type="String">31.07.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="120">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">1. სიღნაღის მუნიციპალიტეტი სოფ.ანაგა “მთავარანგელოზის” ხევზე  (არსებული კედლის გაგრძელებაზე) ნაპირსამაგრი სამუშაოები &#10;2.გურჯაანის მუნიციპალიტეტი, სოფ. ჭანდარი მდ. უსახელო ხევის მარცხენა სანაპიროზე არსებული ბეტონის კედლის გაგრძელებაზე არხის მოწყობისა და ბეტონის კედლის ნაპირსამაგრი სამუშაოები. &#10;3. ყვარელის მუნიციპალიტეტში, შიდასახელმწიფოებრივი მნიშვნელობის ყვარელი–მუკუზანის საავტომობილო გზის მე–9 კმ–ზე არსებულ ხიდთან მდ. ალაზნის ნაპირსამაგრი ნაპირსამაგრი სამუშაოები.</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;გზა 2008&quot;</Data></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">319.255</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">123.625</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">195.63</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">07.03.2018</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">30.07.2018</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:Height="90">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">1.ლაგოდეხის მუნიციპალიტეტი, სოფ. ვერხვისმინდორში (ცენტრალურ მაგისტრალზე, ხიდის მიმდებარედ) მდ. არეშის კალაპოტის ნაპირსამაგრი სამუშაოები. 2.ლაგოდეხის მუნიციპალიტეტი, სოფ. არეშფერონი (ჯუსოევის სახლთან) მდ. აფენის ნაპირსამაგრი სამუშაოები &#10;3.ლაგოდეხის მუნიციპალიტეტი, სოფ. მშვიდობიანი მდ. ბაისუბნის ნაპირსამაგრი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;ლაგოხედავტოგა&quot;</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">249.87</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">75.120999999999995</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">174.74900000000002</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">23.03.2018</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">23.07.2018</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="46.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">ყაზბეგის მუნიციპალიტეტი სოფ.სიონი მდ.დიდხევზე ნაპირსამაგრი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;ბესტი&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">460.99799999999999</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">323.87299999999999</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">137.125</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">28.03.2018</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">28.07.2018</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="46.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ქ. გორის მუნიციპალიტეტი, მდ. მეჯუდას კალაპოტის (მდ. თორთლას შესართავიდან მდ. ლიახვამდე) გაწმენდითი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს &quot;გალაქტიკა&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">236.994</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">147.62899999999999</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">89.365000000000009</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">17.04.2018</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">17.07.2018</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="46.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ცაგერის მუნიციპალიტეტის სოფელი ჩხუტელში (ჭალისუბნის დასახლება) მდ. ცხენისწყლის კალაპოტში ნაპირსამაგრი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;ელიტ ბილდერს გრუპ&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">175.101</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">175.101</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">22.05.2018</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">22.08.2018</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="46.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">ლაგოდეხის მუნიციპალიტეტი, ჭიაურის ტყე მდ,კაბალის ნაპირსამაგრი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="String">შპს&quot;ლაგოხედავტოგა&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">64.721000000000004</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s67" ss:Formula="=+RC[-2]-RC[-1]"><Data ss:Type="Number">64.721000000000004</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">29.05.2018</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">29.07.2018</Data></Cell>
+    <Cell ss:StyleID="s68"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="37.5" ss:StyleID="s20">
+    <Cell ss:MergeAcross="1" ss:StyleID="s112"><Data ss:Type="String">დასრულებული ობიექტები</Data></Cell>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s36"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">ყვარლის მუნიციპალიტეტში მდინარე დურუჯის კალაპოტის გაწმენდითი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">შპს&quot;ჯორჯიან ენერჯი&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">12543.950999999999</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">12028.735000000001</Data></Cell>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">04.01.2018</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">04.07.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">სამტრედიის მუნიციპალიტეტში ტოლების თემის სოფ.ვაზისუბანში მდ.ხევისწყლის მარჯვენა ნაპირის ნაპირდამცავი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">შპს&quot;ბესტი&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">387.077</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">368.64400000000001</Data></Cell>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">07.12.2017</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">30.05.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">საჩხერის მუნიციპალიტეტი ქ.საჩხერე ცენტრალური საავამდყოფოს ხიდთან მდ.ყვირილას კალაპოტში ნაპირსამაგრი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">სახელმწიფო ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">შპს&quot;გაბიონი 2000&quot;</Data></Cell>
+    <Cell ss:StyleID="s58"><Data ss:Type="Number">619.16</Data></Cell>
+    <Cell ss:StyleID="s59"><Data ss:Type="Number">590.01499999999999</Data></Cell>
+    <Cell ss:StyleID="s32"/>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">27.02.2018</Data></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="String">27.06.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="მშენებლობა">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="13" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s22">
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="34.5"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="416.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="101.25" ss:Span="6"/>
+   <Column ss:Index="10" ss:StyleID="s25" ss:AutoFitWidth="0" ss:Width="101.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="91.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="56.25">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">დასახელება</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">დაფინანსების წყარო</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">კონტრაქტორი კომპანია</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">სახელშეკრულებო ღირებულება (ლარი)</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">შესრულება ნაზარდი ჯამით (ლარი)</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">ნაშთი</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">დაწყება</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">დასრულება</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="String">შენიშვნა</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:Height="15" ss:StyleID="s20">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2916715718368"><Data ss:Type="String">მიმდინარე</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">E-60 ავტომაგისტრალის ზემო ოსიაური-ჩუმათელეთი კმ0+000-კმ5+800 მონაკვეთის მშენებლობა ლოტი1 </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">EIB</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String" x:Ticked="1">&quot;Sinohydro Corporation Limited ”</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">133530690.63</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">4230733.84</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">129299956.78999999</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">17.11.2017 </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">15.11.2019</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">მიმდინარე</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">E-60 ავტომაგისტრალის ზემო ოსიაური-ჩუმათელეთი კმ5+800-კმ14+050 მონაკვეთის მშენებლობა ლოტი2 </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">WB</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">ASTALDI S.P.A</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">353729415.68000001</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">16568625.02</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">337160790.66000003</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">31.10.2017 </Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">31.10.2020</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">მიმდინარე</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">აღმოსავლეთ-დასავლეთის მაგისტრალის გაუმჯობესების პროექტის II (EWHIP II) ფარგლებში, ქუთაისის შემოვლითი გზის მონაკვეთზე ჭიშურას ფერდობის დამცავი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">JICA</Data></Cell>
+    <Cell ss:StyleID="s74"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">&quot;China Railway 23</Font><Sup><Font
+        html:Color="#000000">RD</Font></Sup><Font html:Color="#000000"> Bureau Group co., LTD&quot;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s83"><Data ss:Type="Number">3952728.42</Data></Cell>
+    <Cell ss:StyleID="s84"><Data ss:Type="Number">464036.53</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">3488691.8899999997</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">10.03.2018</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">10.09.2018</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">მიმდინარე</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">სამტრედია გრიგოლეთის საავტომობილო გზის კმ11+500-კმ30+000 (ლოტი II) მონაკვეთის მშენებლობა</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">EIB</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String" x:Ticked="1">&quot;Sinohydro Corporation Limited ”</Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">253979678.24000001</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">137622603.58000001</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">116357074.66</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">13.03.2016</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">13.09.2018</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">მიმდინარე</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">სამტრედია გრიგოლეთის საავტომობილო გზის კმ30+000-კმ42+000 (ლოტი III) მონაკვეთის მშენებლობა</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">EIB</Data></Cell>
+    <Cell ss:StyleID="s86"><Data ss:Type="String">TODINI CONSTRUZIONI GENERAL S.p.A., VIA DUE MACELLI</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">138042409.22</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">1784487.33</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">136257921.88999999</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">12.07.2017</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">12.07.2019</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">მიმდინარე</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">სამტრედია გრიგოლეთის საავტომობილო გზის კმ42+000-კმ51+570 (ლოტი IV) მონაკვეთის მშენებლობა</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">EIB</Data></Cell>
+    <Cell ss:StyleID="s74"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40"><Font html:Color="#000000">&quot;China Railway 23</Font><Sup><Font
+        html:Color="#000000">RD</Font></Sup><Font html:Color="#000000"> Bureau Group co., LTD&quot;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s85"><Data ss:Type="Number">113207155.11</Data></Cell>
+    <Cell ss:StyleID="s87"><Data ss:Type="Number">61036087.759999998</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">52171067.350000001</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">24.05.2015</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"> 24.12.2018</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">მიმდინარე</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">შიდასახელმწიფოებრივი მნიშვნელობის (შ-146)სტეფანწმინდა – სამების ეკლესიის საავტომობილო გზის კმ1-კმ5.661 რეკონსტრუქცია-მშენებლობის სამუშაოები </Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">GOV</Data></Cell>
+    <Cell ss:StyleID="s88"><Data ss:Type="String">შპს&quot;სახელმწიფო სამშენებლო კომპანია&quot;</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">7793854</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">662592.63</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">7131261.3700000001</Data></Cell>
+    <Cell ss:StyleID="s89"><Data ss:Type="String">05.05.2017 </Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String">05.11.2018</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">მიმდინარე</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s80"><Data ss:Type="String">საერთაშორისო მნშვნელობის მცხეთა-სთეფანწმინდა-ლარსის(რუსეთის ფედერაციის საზღვარი)საავტომობილო გზის კმ132-კმ135 მონაკვეთზე გვირაბისა და მისასვლელი გზების მშენებლობის დეტალური საპროექტო  დოკუმენტაციის წარმოდგენა და მის შესაბამისად სამუშაოების განხორციელება.</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">GOV</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">შპს &quot;ფერი&quot;</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">51892174.439999998</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">39014859.5</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">12877314.939999998</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">03.05.2017</Data></Cell>
+    <Cell ss:StyleID="s79"><Data ss:Type="String"> 15.08.2018</Data></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="String">მიმდინარე</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s20">
+    <Cell ss:MergeAcross="1" ss:StyleID="m2916715718388"><Data ss:Type="String">დასრულებული ობიექტები</Data></Cell>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s92"/>
+    <Cell ss:StyleID="s93"/>
+   </Row>
+   <Row ss:Height="78.75">
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="String">ქობულეთის შემოვლითი გზის კმ12+400- კმ31+259 მონაკვეთის მშენებლობა (ლოტი II)</Data></Cell>
+    <Cell ss:StyleID="s81"><Data ss:Type="String">ADB</Data></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="String" x:Ticked="1">&quot;Sinohydro Corporation Limited ”</Data></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">209852079.66</Data></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">200504298.46000001</Data></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=RC[-2]-RC[-1]"><Data ss:Type="Number">9347781.1999999881</Data></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="String">24.05.2013 </Data></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="String">30.06.2018</Data></Cell>
+    <Cell ss:StyleID="s94"><Data ss:Type="String">დასრულებული / მიმდინარეობს კონტრაქტით განსაზღვრული დეფექტებზე პასუხისმგებლობის პერიოდი</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>8</ActiveRow>
+     <ActiveCol>5</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="რეაბილიტაცია">
+  <Table ss:ExpandedColumnCount="11" ss:ExpandedRowCount="88" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s22">
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="34.5"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="416.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="101.25" ss:Span="6"/>
+   <Column ss:Index="10" ss:StyleID="s25" ss:AutoFitWidth="0" ss:Width="101.25"/>
+   <Column ss:StyleID="s22" ss:AutoFitWidth="0" ss:Width="91.5"/>
+   <Row ss:AutoFitHeight="0" ss:Height="71.25">
+    <Cell ss:StyleID="s26"><Data ss:Type="String">N</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">დასახელება</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">დაფინანსების წყარო</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">კონტრაქტორი კომპანია</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">სახელშეკრულებო ღირებულება (ათასი. ლარი)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">შესრულება ნაზარდი ჯამით (ათასი. ლარი)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">ნაშთი</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">დაწყება</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">დასრულება</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">შენიშვნა</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25">
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s23"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="20.25" ss:StyleID="s20">
+    <Cell ss:MergeAcross="1" ss:StyleID="s112"><Data ss:Type="String">მიმდინარე</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:StyleID="s19"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მ ზუგდიდი-ჯვარი-მესტია-ლასდილის ს/გზის კმ154-კმ185 (ლოტი 2) საპროექტო მონაკვეთი პკ-123+70-პკ 220+00 სარეაბილიტაციო სამუშაოები (20სმ ც/ბ საფარი 2 ხიდი)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">შპს &quot;მამისონი&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">9150</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">6070.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3079.1000000000004</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">09.01.2017</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">30/09/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ხობი-საჯიჯაო-ლესიჭინეს ს/გზის 26-ე კმ-ზე, მდ. ოჩხომურზე ახალი სახიდე გადასასვლელის სამშენებლო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Sps <Font html:Face="Arial"
+       x:Family="Swiss">&quot;Georgian Bridje Construction&quot;&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">6467.4</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">4536.6999999999989</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1930.7000000000007</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">11/12/2017</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">11/12/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="94.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბეჩო-ტურბაზა-შიხრას ს/გზის კმ1-კმ7 მონაკვეთის დარჩენილი სარეაბილიტაციო სამუშაოები &#10;(1 ახალი ხიდი)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;s.s.s.s Celiabinsktranssignali&quot; warmomadgeneli saqarTvelos filiali&#10; </Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2728.1</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">767.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1960.5</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">22/06/2017</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">01/08/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ზუგდიდი-ჯვარი-მესტია-ლასდილის ს/გზის 59-კმ-ზე არსებული გვირაბის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Sps &quot;ensisi&quot; &#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">6370</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5002.6000000000004</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1367.3999999999996</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">17.03.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">11/08/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მ ზუგდიდი-ჯვარი-მესტია-ლასდილის ს/გზის კმ165-კმ177 (საპროექტო მონაკვეთი პკ-220+00-პკ 350+00) მონაკვეთის სარეაბილიტაციო სამუშაოები </Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Sps ,,sax. samS. kompania&quot; </Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">14754.2</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">916.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">13837.7</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">&#10;&#10;15.12.2017&#10;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">05.12.2019</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ადგ. მნიშვნელობის მესტიის ცენტრი–აეროპორტი–წრნიაშის ს/გზის პირველი კილომეტრის დაახლოებით 800მ სიგრძის მინაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Sps ,,sax. samS. kompania&quot; </Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">620.1</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">620.1</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">11/05/2018</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">11/09/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ხობის მუნიციპალიტეტის სოფ. შუა ხორგა-ყულევის დამაკავშირებელი 16კმ-იანი ს/გზის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Sps &quot;<Font html:Face="Arial"
+       x:Family="Swiss">New Road&quot;&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">7688.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">6629.4</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1059.5</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">08.06.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">08.08.2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ჭალადიდი-ხორგა-ხობის ს/გზის კმ1-კმ4 მონაკვეთის სარეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Sps &quot;<Font html:Face="Arial"
+       x:Family="Swiss">New Road&quot;&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2988.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">96</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2892.8</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">&#10;&#10;29/05/2018&#10;&#10;</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">29/11/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ხობი–საჯიჯაო–ლესიჭინეს ს/გზის მე–11კმ–ში მდ. ხობისწყალზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Sps &quot;arili&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">679.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">328</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">351.9</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">27/02/2018</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">27/08/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ზუგდიდი–ნარაზენი–ძველი ხიბულა–ახალი ხიბულა–ზუბის ს/გზის კმ2+663, მდ. ყულისწყალზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">&#10;Sps &quot;ji vi Ti jgufi&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">379.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">180.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">198.6</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">16/03/2018</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">16/10/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">11</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ხობი-საჯიჯაო-ლესიჭინეს ს/გზის კმ26-კმ29.2 მონაკვეთის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">შპს &quot;შარა–გზამშენი პირველი&quot;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1367</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">101.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1265.0999999999999</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">11/05/2018</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">11/10/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">12</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ჭალადიდი–ხორგა–ხობის ს/გზის მე–5(4+461)კმ–ზე მდ. ხობისწყალზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">შპს &quot;მშენებელთა ჯგუფი&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">598.70000000000005</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">36.4</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">562.30000000000007</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">29/03/2018</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">29/09/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">13</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ზესტაფონი-ბაღდათის ს/გზის მე-3კმ-ში მდ. ყვირილაზე ახალი სახიდე გადასასვლელის სამშენებლო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Sps &quot;ensisi&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5999.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">4335.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1664.0999999999995</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">28/03/2017</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">31/08/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">14</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი(მოწამეთა)–ტყიბული–ამბროლაურის ს/გზის კმ38(37+351)–ზე ნაქერალას ხევზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">შპს &quot;ჯ და ჯ&quot; </Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">150.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">67.099999999999994</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">83.5</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">30/03/2018</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">30/06/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">15</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ვარციხე–როხის ს/გზის კმ2(1+315)-ზე მდ. ხანისწყალზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;grin vei 2012&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">280</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">159.1</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">120.9</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">16/03/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">&#10;16/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">16</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">საჩხერე ქვემო ხევის ს/გზის კმ0+000-კმ5+537 მონაკვეთის მშენებლობა–რეკონსტრუქციის სამუშოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;mamisoni&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">7926.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1096.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">6830.4</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">15/02/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">15/12/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">17</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ქუთაისი (საღორია)-ბაღდათი-აბასთუმანი-ბენარას  საავტომობილო გზის 44 კმ-ზე არსებული დაზიანებული კლდოვანი ფერდის მოხსნის მიზნით ჩასატარებელი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">შპს &quot;შარა&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">880.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">191.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">688.9</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">03/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">03/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">18</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის მცხეთა–სტეფანწმინდა–ლარსის (რუსეთის ფედერაციის საზღვარი) ს/გზის 136-ე კმ–ზე მდ. ქისტურაზე არსებული სახიდე გადასასვლელის სარეაბილიტავიო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">შპს &quot;მამისონი&quot;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">795</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">795</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">09/02/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">09/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">19</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის მცხეთა-სტეფანწმინდა-ლარსის (რუსეთის საზღვარი) ს/გზის 106-ე კმ-ში, მდ. ბიდარაზე მდებარე სახიდე გადასასვლელის სარეკონსტრუქციო-სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Sps &quot;xidmSeni 99&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2492</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1187.0999999999999</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1304.9000000000001</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">04/07/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">20</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის მცხეთა–სტეფანწმინდა–ლარსის (რუსეთის ფედერაციის საზღვარი) ს/გზისკმ124+374-ზე, მდ. თერგზე არსებული სახიდე გადასასვლელის სარეაბილიტავიო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Sps &quot;xidmSeni 99&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">368.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">368.3</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">12/03/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">12/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="47.25">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">21</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის მცხეთა–სტეფანწმინდა–ლარსის ს/გზის კმ65-66 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Sps ,,sax. samS. kompania&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3408.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">223.7</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3185.1000000000004</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">12/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">12/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="67.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">22</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">თელავის, ახმეტის, დუშეთისა და ყაზბეგის მუნიციპალიტეტების ტერიტორიებზე გამავალი სნო-ჯუთა-როშკა-შატილი-ომალო-ხადორის ხეობა-ბაწარა-ახმეტას მიმართულებით ს/გზების მშენებლობა-რეკონსტრუქციის სამუშაოები: შ/მნიშვნელობის აჩხოთი-სნო-ახალციხე-ჯუთას ს/გზის კარკუჩა-ჯუთას მონაკვეთის მშენებლობა-რეკონსტრუქცია კმ7+520-დან-კმ15+230-მდე სამუშაოების განხორციელება</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Sps ,,sax. samS. kompania&quot;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3034.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">155</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2879.9</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">11/12/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s101"><Data ss:Type="String">11/02/2019&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">23</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ნიჩბისი-დიდგორი-დიდი თონეთის ს/გზის კმ1-კმ14.1 მონაკვეთის რეაბილიტაცია (ლოტი 1)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Sps &quot;cekuri&quot;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">12177.1</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3848.3999999999996</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">8328.7000000000007</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">08/11/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">08/04/2019&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">24</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ჟინვალი-ბარისახო-შატილის ს/გზის 51-ე კმ-ზე არსებული ზედა საყრდენი კედლის აღდგენა</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">amxanagoba&#10;&quot;mSenebeli&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">324.89999999999998</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">104.89999999999999</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">220</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31.07.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31.05.2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">25</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">საერთაშორისო მნიშვნელობის მცხეთა - სტეფანწმინდა - ლარსის საავტომობილო გზის კმ30 – კმ36 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;sss #1&quot; &#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">6336.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5367.7</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">969.19999999999982</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31.07.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30.09.2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">26</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ჟინვალი–ბარისახო–შატილის ს/გზის კმ3(2+043)–ზე საკაანაფის ხევზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;grupo puente&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">277.39999999999998</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">234.1</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">43.299999999999983</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">15/03/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">15/07/2018&#10;</ss:Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="67.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">27</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ახმეტის, დუშეთისა და ყაზბეგის მუნიციპალიტეტების ტერიტორიებზე გამავალი სნო-ჯუთა-როშკა-შატილი-ომალო-ხადორის ხეობა-ბაწარა-ახმეტას მიმართულებით ს/გზების მშენებლობა-რეკონსტრუქციის სამუშაოები: შ/მნიშვნელობის აჩხოთი-სნო-ახალციხე-ჯუთას ს/გზის გაგრძელების, ჯუთა-როშკის კმ15+230-დან+3.9კმ მონაკვეთის მშენებლობა-რეკონსტრუქციის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ind. Mmewarme &quot;daviT siWinava&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1816</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">486.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1329.1</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">11/12/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">11/02/2019&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">28</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ორხევი–სიონის ს/გზის კმ2+000-კმ3+700 მონაკვეთის სარეაბილიტაციო სამუშოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">შპს &quot;გზამშენი 2005&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1123.5999999999999</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1123.5999999999999</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">02/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">02/11/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">29</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">S/mniSvnelobis ozurgeTi-ninoSvili-lesas s/gzis km8(7+128)-ze md. სufsaze arsebuli saxide gadasasvlelis sareabilitacio samuSaoebi</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s100"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Sps &quot;sinaTle-2006&quot;<B>&#10;</B></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">525.20000000000005</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">104.7</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">420.50000000000006</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">30</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის საგარეჯო–უდაბნო–დავით გარეჯის მონასტრის ს/გზის მე–9(8+500)კმ–ზე, მდ. იორზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;<Font html:Face="Arial"
+       x:Family="Swiss">Construction Service&quot;&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">264.89999999999998</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">155.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">58.701396753491885</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">04/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">04/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">31</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის თიანეთი–ახმეტა–ყვარელი–ნინიგორის ს/გზის კმ115(114+960)–ზე მდ. არეშზე არსებული სახიდე გადასასვლელის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;grupo puente&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">503.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">503.5</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">04/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">04/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">32</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">თიანეთი-ახმეტა-ყვარელი-ნინიგორი  საავტომობილო გზის კმ106+650-ზე, მდ. შოროხევზე არსებული სახიდე გადასასვლელის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Sps &quot;grupo puente&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">229.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">229.9</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">33</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">თბილისი-ბაკურციხე-ლაგოდეხის (აზერბაიჯანის რესპუბლიკის საზღვარი)  ს/გზის კმ104(103+336) მდ. ჩალაუბნისხევზე არსებული სახიდე გადასასვლელის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Sps &quot;grupo puente&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">145.30000000000001</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">16/05/2018წ. &#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">16/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">34</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ხორნაბუჯი-ერისიმედის ს/გზის კმ.21 (20+800) არსებული სახიდე გადასასვლელის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="String">შპს &quot;საქართველოს სამშენებლო კომპანია&quot;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">394.4</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">84.300000000000011</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">21.374239350912781</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">13/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">13/10/2018&#10;&#10;</ss:Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">35</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ხაშური-ახალციხე-ვალეს (თურქეთის რესპუბლიკის საზღვარი) ს/გზის 56-ე კმ-ზე არსებული რკინიგზის გზაგამტარის ნაცვლად ახალი სახიდე გადასასვლელის მშენებლობა </Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Sps <Font html:Face="Arial"
+       x:Family="Swiss">&quot;Georgian Bridje Construction&quot;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3377</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2248.1999999999998</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1128.8000000000002</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">21.07.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">21/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">36</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ადიგენი–უდე–არალის ს/გზის მე–16კმ–ზე, მდ.ოცხეზე ახალი სახიდე გადასასვლელის სამშენებლო სამუშოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Sps <Font html:Face="Arial"
+       x:Family="Swiss">&quot;Georgian Bridje Construction&quot;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1737.1</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">314.10000000000002</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">18.081860572218066</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/12/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">37</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">დაბა ბაკურიანის წრიული ს/გზიდან, სოფელ მიტარბის მიმართულებით მიმავალი ადგილობრივი მნიშვნელობის ს/გზის დაახლოებით ერთ კმ–იანი მონაკვეთის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;sss #1&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1020</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">968.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">51.100000000000023</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">09.08.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">01/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">38</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ბორჯომი-ბაკურიანი-ახალქალაქის ს/გზის 27-ე კმ-ში ავტოტრანსპორტის მოძრაობის უსაფრთხოების გაუმჯობესების ღონისძიებების სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;prioriteti&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">297.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">206.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">90.4</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31.08.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">30.06.2018<B><I>&#10;</I></B></ss:Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">39</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბორჯომი–ბაკურიანი–ახალქალაქის ს/გზის კმ1, მდ. მტკვარზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">შპს &quot;შარა&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">382.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">219.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">163</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">28/02/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">28/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">40</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბათუმი(ანგისა)–ახალციხის ს/გზის კმ136-კმ137 ცალკეულ მონაკვეთებზე დაზიანებული მიწის ვაკისის აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">შპს &quot;სსს #2&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">426.7</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">55.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">371.09999999999997</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">27/03/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">27/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">41</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბორჯომი-ბაკურიანი-ახალქალაქის ს/გზის მე-9 (კმ8+700) მდ. გუჯარულაზე არსებული სახიდე გადასასვლელის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;grupo puente&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">194.2</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">165.89999999999998</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">28.300000000000011</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">14/09/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/06/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">42</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბორჯომი–ბაღი–ტბა–ცემის ს/გზის პირველ კმ–ში (ქ. ბორჯომი) დაზიანებული საყრდენი კედლის აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">შპს &quot;ბესკო&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">275.7</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">155.4</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">120.29999999999998</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">29/03/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">29/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">43</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ხაშური-ახალციხე-ვალეს (TurqeTis respublikis sazRvari) ს/გზის me-13-ე კმ-ზე დაზიანებული ქვედა საყრდენი კედლის აღდგენა</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s100"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Sps &quot;qrosfointi&quot;<B>&#10;</B></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">970.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">100.19999999999999</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">10.323511230166906</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">25/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">25/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">44</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის კოდა–ფარცხისი-მანგლისი–წალკა–ნინოწმინდას ს/გზის კმ77-კმ92 მონაკვეთის სარეაბილიტაციო სამუშაოები (15.8კმ)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s100"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;კავკასუს როუდ პროჯექტი&quot;<B>&#10;</B></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">13795.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">03/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">03/11/2019&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">45</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის ახალციხე–ნინოწმინდას (სომხეთის რესპუბლიკის საზღვარი) ს/გზის კმ98-კმ112 მონაკვეთის სარეაბილიტაციო სამუშაოები (14.6კმ, 3 ხიდი)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s100"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;საქმილსადენმშენი&quot;<B>&#10;</B></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">13808.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">06/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">06/10/2019&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">46</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი(ბაღდათი)-საირმე-აბასთუმანი-ბენარას ს/გზის აბასთუმანი-ბაღდათის მიმართულებით კმ3.2 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;arali&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3099.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">574.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2524.8000000000002</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">08/01/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">08/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">47</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">სენაკი-ფოთი-სარფის ს/გზის ჩაქვი-მახინჯაურის მონაკვეთზე, საავტომობილო გვირაბის მიმდებარედ ავტოტრანსპორტის მოსაბრუნებელი საავტომობილო გზის მოწყობა (1 კმ)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;gza&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2500</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2500</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">8/08/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">48</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბათუმი(ანგისა)-ახალციხის ს/გზის 85-ე კმ-ში(ხულოს გასასვლელი) დაზიანებული მიწის აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Sps &quot;iberia j&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2546</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1861.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">684.09999999999991</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">20/11/2017w.&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">15/07/2018<B><I>&#10;</I></B></ss:Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">49</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბათუმი(ანგისა)–ახალციხის ს/გზის კმ91+800 მონაკვეთზე დაზიანებული მიწის ვაკისის აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Sps &quot;iberia j&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2600</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">13/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">01/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">50</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშნელობის ბათუმი(ანგისა)–ახალციხის ს/გზის კმ15+150 მონაკვეთზე დაზიანებული მიწის ვაკისის აღდგენის სამუშოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">სს &quot;ზიმო-7&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">405.2</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="Number">60.3</Data></Cell>
+    <Cell ss:StyleID="s103"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">16/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">16/11/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">51</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბათუმი(ანგისა)–ახალციხის ს/გზის 59-ე (კმ58+970)კმ–ზე მდ. ჭვანისწყალზე არსებული სახიდე გადასასვლელის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">შპს &quot;გაბიონი 2000&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">519.4</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">153.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">365.79999999999995</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">27/02/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">27/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">52</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ადგილობრივი მნიშვნელობის მუხაესტატე - ცეცხლაურის საჯარო სკოლის საავტომობილო გზის კმ 4-900 - კმ 6+320 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">Sps &quot;<Font html:Face="Arial"
+       x:Family="Swiss">New Road&quot;&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1028.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">921.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">89.570373250388798</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">26/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">26/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">53</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის გოდერძის უღელტეხილი-ბეშუმის ს/გზის კმ1-კმ6 მონაკვეთის სარეაბილიტაციო სამუშაოები (1 ხიდი)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;arali&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">4486.8999999999996</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">740.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3746.5999999999995</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">11/12/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">11/02/2019&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">54</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბათუმი(ანგისა)–ახალციხის ს/გზის კმ79+500-კმ80+600 მონაკვეთის სარეაბილიტაციო სამუშოებზე</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s100"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;ერ დე ტე&quot;<B>&#10;</B></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1369.9</Data></Cell>
+    <Cell ss:StyleID="s104"/>
+    <Cell ss:StyleID="s104"/>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">27/06/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">27/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">55</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბათუმი(ანგისა)–ახალციხის ს/გზის კმ56(55+180)–ზე მდ. აჭარისწყალზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">შპს &quot;უნივერსალი&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">214.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">9.8000000000000007</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">4.5602605863192185</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">23/03/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">23/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">56</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი(მოწამეთა)–ტყიბული–ამბროლაურის ს/გზის კმ62(61+858)–ზე მდ. აგარისხევზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">შპს &quot;ჯ და ჯ&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">256.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">7.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">248.6</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">04/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">04/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">57</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი-წყალტუბო-ცაგერი-ლენტეხი-ლასდილის ს/გზის  კმ100-კმ112 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Sps &quot;jeu grupi&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">9401</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">7196.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2204.6999999999998</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">28.12.2016&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="45.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">58</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი(წყალტუბოს გადასახვევი)-წყალტუბო-ცაგერი-ლენტეხი-ლასდილიდ დ/გზის კმ113-კმ125 მონაკვეთის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">Sps ,,sax. samS. kompania&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">10282.299999999999</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1739.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">8543</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31/10/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">31/01/2019&#10;</ss:Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">59</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი(ჭომა)-ალპანა-მამისონის უღელტეხილი (რუსეთის ფედერაციის საზღვარი) ს/გზის კმ126-კმ141 მონაკვეთზე სტიქიის შედეგად დაზიანებული ცალკეული მონაკვეთების აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Sps ,,sax. samS. kompania&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3549.1</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">87.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3461.5</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">07/02/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">60</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი(ჭომა)-ალპანა-მამისონის უღელტეხილი (რუსეთის ფედერაციის საზღვარი) ს/გზის კმ115-ე და 118-ე კმ-ებზე დაზიანებული ცალკეული მონაკვეთების აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s108"><Data ss:Type="String">Sps ,,sax. samS. kompania&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2461.1</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">126.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2334.1999999999998</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">21/02/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">14/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">61</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი-წყალტუბო-ცაგერი-ლენტეხი-ლასდილის ს/გზის  117-ე კმ-ზე, მდ. ცხენისწყალზე ახალი სახიდე გადასასვლელის მშენებლობის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s105"><Data ss:Type="String">Sps &quot;xidmSeni 99&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2945.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2515.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">430.40000000000009</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">28.09.2016&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="48.75">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">62</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის საგლოლო-ჭიორა-ღების ს/გზის კმ1-კმ12 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;bel-bau&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">7171</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1829.7</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">5341.3</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">03.05.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">03.11.2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="54">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">63</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ქუთაისი-ალპანა-მამისონის უღელტეხილის ს/გზის კმ126-კმ141 მონაკვეთზე სტიქიის შედეგად დაზიანებული ცალკეული მონაკვეთების აღდგენა (კმ130+590-ზე ღვარცოფგამტარი ნაგებობის მოწყობა და მასთან დაკავშირებული ნაპირსამაგრი სამუშაოები)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s100"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;ბესკო&quot;<B>&#10;</B></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1479.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">29.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2.0204067842421782</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/11/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="108">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">64</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ალპანა-ცაგერის ს/გზის მე-12კმ-ში დაზიანებული მიწის ვაკისის აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Ria saaqcio sazogadoeba &quot;samSeneblo-samrewvelo sainvesticio korporacia akordi&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1457.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1314.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">143.20000000000005</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">09/01/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">31/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:Height="27">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">65</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ალპანა–ცაგერის ს/გზის მე–4, მე–12 და მე–19კმ–ებზე დაზიანებული მიწის ვაკისის აღდგენის სამუშოები, ნაწილი 1 კმ4 და კმ19</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps ,,მამისონი&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">736.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">736.8</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">18/06/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">18/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">66</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ზაჰესი-მცხეთა-კავთისხევი-გორი-სკრა-ქარელი-ოსიაურის ს/გზის კმ9+500-ზე დაკმ81+900-ზე არსებული წყალგამტარი მილების სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;daviTi&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">292.2</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">47.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">244.89999999999998</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">01.11.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">15.06.2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">67</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ზაჰესი–მცხეთა–კავთისხევი–გორი–სკრა–ქარელი–ოსიაურის ს/გზის კმ28(27+015)–ზე მდ. კავთურაზე არსებული სახიდე გადასასვლელის სარეაბილიტაციო სამუშოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><Data ss:Type="String">შპს &quot;ბესკო&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">192.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">56.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">29.491173416407062</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">11/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">11/08/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">68</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ნიჩბისი-დიდგორი-დიდი თონეთის ს/გზის სარეაბილიტაციო სამუშაოები (ლოტი 2 დიდგორი-დიდი თონეთი კმ14.170-კმ26.670)</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Sps &quot;jeu grupi&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">8394.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1038.3000000000002</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">7356.3</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">04/12/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">06/02/2019&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">69</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის მარნეული-ალგეთი-აზიზკენტის ს/გზის კმ 14+000-კმ18+195 მონაკვეთის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s109"><Data ss:Type="String">Sps &quot;jeu grupi&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1990.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">285.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1705.2</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">10/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">10/11/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">70</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის შულავერი–შაუმიანი–სიონი–წარაქვი–ს/გზის კმ7-კმ11 მონაკვეთის სარეაბილიტაციო სამუშოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;ქცია&quot;&#10;</ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">3596.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2623</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">973.5</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">22/12/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">18/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">71</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">თბილისი(ველი)-გაჩიანი-რუსთავის ს/გზის კმ8+400-ზე არსებული რკინიგზის გზაგამტარის რეაბილიტაცია </Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s97"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;<Font html:Face="Arial"
+       x:Family="Swiss">Construction Service&quot;&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">984.2</Data></Cell>
+    <Cell ss:StyleID="s98"/>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">984.2</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">03/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">03/12/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">72</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ვაზიანი–მარტყოფი–ნორიო–ღვთაებას ს/გზის კმ6+300-კმ11+300 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">შპს &quot;ჰერიო&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2686.7</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">129.69999999999999</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2557</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">02/04/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">02/11/2018&#10;</ss:Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">73</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ბოლნისი-სიონის მონასტერი-წუღრუღაშენის ს/გზის კმ10-კმ11,7 მონაკვეთის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s100"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;როუდ სოლუშენი&quot;<B>&#10;</B></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1204.9000000000001</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">84.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1120</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">10/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">10/09/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="61.5">
+    <Cell ss:StyleID="s55"><Data ss:Type="Number">74</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის თბილისი(ველი)–გაჩიანი–რუსთავის ს/გზის კმ8.8-კმ11 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s106"><Data ss:Type="String">შპს &quot;ენკო&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2086.6</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2086.6</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">28/06/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">28/10/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="37.5" ss:StyleID="s20">
+    <Cell ss:MergeAcross="1" ss:StyleID="s112"><Data ss:Type="String">დასრულებული ობიექტები</Data></Cell>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s36"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">1</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ზუგდიდი-ნარაზენი-ძველი ხიბულა-ახალი ხიბულა-ზუბის ს/გზის მე-2კმ-ზე, მდ. ჯუმზე არსებული სახიდე გადასასვლელის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#10;Sps &quot;ji vi Ti jgufi&quot;&#10;&#10;</ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">404.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">397.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">24/10/2017</Data></Cell>
+    <Cell ss:StyleID="s99"><Data ss:Type="String">31/05/2018</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">2</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ჭიათურა-პერევისა-სვერი-თვალუეთი-გეზრულის ს/გზის კმ1-კმ7 მონაკვეთის რეაბილიტაცია</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s102"><Data ss:Type="String">Sps &quot;dagi+&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s107"><Data ss:Type="Number">4573.7</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">4072.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">&#10;&#10;04.08.2017&#10;<I>&#10;</I></ss:Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">30/05/2018<I>&#10;</I></ss:Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">3</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის სამტრედია-ლანჩხუთი-გრიგოლეთის ს/გზის მე-8კმ-ზე მდ. თხილნარაზე ახალი სახიდე გადასასვლელის მოწყობის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;saxaria&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1817.4</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1773.1</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/10/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">4</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ქუთაისი(საღორია)-ბაღდათი-აბასთუმანი-ბენარას ს/გზის კმ6-კმ10 მონაკვეთის სარეაბილიტაცია სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;saqmilsadenmSeni&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2992.8</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2986.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">17/11/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">01.05.2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">5</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">მცხეთა-სტეფანწმინდა-ლარსის ს/გზის 86-ე კმ-ზე  დაზიანებული ქვედა საყრდენი კედლის აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;saxaria&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">407.5</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">375.20000000000005</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">28/09/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30.06.2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">6</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის მცხეთა-სტეფანწმინდა-ლარსის ს/გზის კმ29-კმ31 მონაკვეთზე არსებული ფერდობების ქვის ცვენის საწინააღმდეგო პრევენციული ღონისძიებების სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ind. Mmewarme &quot;daviT siWinava&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2103.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2101.7000000000003</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30.05.2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">10/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">7</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის თბილისი–ბაკურციხე–ლაგოდეხის ს/გზის კმ36+500-ზე (სოფ. ხაშმის მიერთება) მოძრაობის უსაფრთხოების ამაღლების მიზნით ჩასატარებელი სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">სს &quot;კავკასავტომაგისტრალი&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">397.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">379</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">16/02/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">16/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">8</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">შ/მნიშვნელობის ბათუმი–ახალციხის ს/გზის კმ37+200-ზე (დაბა ქედის შესასვლელი) დაზიანებული ქვედა საყრდენი კედლის აღდგენის სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">სს &quot;ზიმო-7&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1218</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">1176.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">08/01/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">08/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">9</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ა/მნიშვნელობის მუხაესტატე–ცეცხლაურის საჯარო სკოლის ს/გზის კმ0+00-კმ6+320 მონაკვეთის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">Sps &quot;gzamSeni 18&quot;&#10;</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2919.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">2919.3</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">28/12/2017&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">30/05/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="59.25">
+    <Cell ss:StyleID="s21"><Data ss:Type="Number">10</Data></Cell>
+    <Cell ss:StyleID="s95"><Data ss:Type="String">ს/მნიშვნელობის თბილისის შემოსავლელი ს/გზის 28-ე (კმ27+250_ კმ–ზე (ნორიოს დასახლება)არსებული გზაგამტარის სარეაბილიტაციო სამუშაოები</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">ბიუჯეტი</Data></Cell>
+    <Cell ss:StyleID="s96"><ss:Data ss:Type="String"
+      xmlns="http://www.w3.org/TR/REC-html40">შპს &quot;<Font html:Face="Arial"
+       x:Family="Swiss">Construction Service&quot;&#10;</Font></ss:Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">105.2</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">91.9</Data></Cell>
+    <Cell ss:StyleID="s98"><Data ss:Type="Number">0</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">20/02/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s96"><Data ss:Type="String">20/07/2018&#10;</Data></Cell>
+    <Cell ss:StyleID="s33"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

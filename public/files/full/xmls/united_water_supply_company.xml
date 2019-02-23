@@ -1,0 +1,1535 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Created>2006-09-16T00:00:00Z</Created>
+  <LastSaved>2018-07-11T13:41:36Z</LastSaved>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+  <RemovePersonalInformation/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <SupBook>
+   <Path>\\192.168.11.113\Users\guwsc\AppData\Roaming\Skype\My Skype Received Files\ONGOING Investment Progress Updated 28.06.2016 ღუდუ.xlsx</Path>
+   <SheetName>1. მიმდინარე სამშენებლო </SheetName>
+   <SheetName>2. მიმდ. საკონსულ. და საქონელი</SheetName>
+   <SheetName>info</SheetName>
+   <SheetName>Comments</SheetName>
+   <Xct>
+    <Count>-1</Count>
+    <SheetIndex>2</SheetIndex>
+    <Crn>
+     <Row>3</Row>
+     <ColFirst>2</ColFirst>
+     <ColLast>2</ColLast>
+     <Number>2.1461000000000001</Number>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <SupBook>
+   <Path>\\192.168.11.113\Users\guwsc\Desktop\ONGOING Investment Progress Updated 15.06.2016(არჩ).xlsx</Path>
+   <SheetName>1. მიმდინარე სამშენებლო </SheetName>
+   <SheetName>2. მიმდ. საკონსულ. და საქონელი</SheetName>
+   <SheetName>info</SheetName>
+   <SheetName>Comments</SheetName>
+   <Xct>
+    <Count>-1</Count>
+    <SheetIndex>2</SheetIndex>
+    <Crn>
+     <Row>3</Row>
+     <ColFirst>2</ColFirst>
+     <ColLast>2</ColLast>
+     <Number>2.1461000000000001</Number>
+    </Crn>
+   </Xct>
+  </SupBook>
+  <WindowHeight>12435</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s16" ss:Name="Comma">
+   <NumberFormat
+    ss:Format="_-* #,##0.00\ _L_a_r_i_-;\-* #,##0.00\ _L_a_r_i_-;_-* &quot;-&quot;??\ _L_a_r_i_-;_-@_-"/>
+  </Style>
+  <Style ss:ID="s19" ss:Name="Comma 4">
+   <NumberFormat
+    ss:Format="_-* #,##0.00\ _L_a_r_i_-;\-* #,##0.00\ _L_a_r_i_-;_-* &quot;-&quot;??\ _L_a_r_i_-;_-@_-"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s21">
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s22">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s23">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom"/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s27" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#C4D79B" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C4D79B" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s30">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s31">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s32">
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s33">
+   <Borders/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s34" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s35">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s36">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman"/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s37" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s38">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s39" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s40">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:CharSet="204" x:Family="Roman" ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s41">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s42">
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s43">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman"/>
+   <Interior/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s44">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s45">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s46">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s47">
+   <Borders/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s48">
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s50">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s51">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s52">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+  </Style>
+  <Style ss:ID="s53">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="Short Date"/>
+  </Style>
+  <Style ss:ID="s54">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s55">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s56">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s57">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s61">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:CharSet="204" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+   <NumberFormat ss:Format="[ENG][$-409]d\-mmm\-yy;@"/>
+  </Style>
+  <Style ss:ID="s64" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman"/>
+   <Interior ss:Color="#FF0000" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+   <NumberFormat
+    ss:Format="_-* #,##0.00\ _L_a_r_i_-;\-* #,##0.00\ _L_a_r_i_-;_-* &quot;-&quot;??\ _L_a_r_i_-;_-@_-"/>
+  </Style>
+  <Style ss:ID="s67" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#FFFFFF" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s68">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s69">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:CharSet="204" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s70" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#FF0000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s71" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#FF0000"/>
+  </Style>
+  <Style ss:ID="s72" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s73" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s74" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s75" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#FF0000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s76" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Bold="1"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s77" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s78" ss:Parent="s16">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FF0000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#92D050" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s79" ss:Parent="s19">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"/>
+   </Borders>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Color="#000000"/>
+   <Interior/>
+  </Style>
+  <Style ss:ID="s83">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+   <Borders/>
+   <Font ss:FontName="Sylfaen" x:Family="Roman" ss:Size="14" ss:Color="#FFFFFF"
+    ss:Bold="1"/>
+   <Interior ss:Color="#538DD5" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="1. მიმდინარე სამშენებლო  ">
+  <Names>
+   <NamedRange ss:Name="_FilterDatabase"
+    ss:RefersTo="='1. მიმდინარე სამშენებლო  '!R3C2:R28C15" ss:Hidden="1"/>
+   <NamedRange ss:Name="Print_Area"
+    ss:RefersTo="='1. მიმდინარე სამშენებლო  '!R1C2:R28C15"/>
+  </Names>
+  <Table ss:ExpandedColumnCount="121" ss:ExpandedRowCount="28" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s21" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s21" ss:Hidden="1" ss:AutoFitWidth="0"/>
+   <Column ss:StyleID="s23" ss:AutoFitWidth="0" ss:Width="24.75"/>
+   <Column ss:StyleID="s23" ss:Width="125.25"/>
+   <Column ss:StyleID="s23" ss:AutoFitWidth="0" ss:Width="120.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="154.5"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="115.5"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="120.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="95.25"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="105.75"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="96"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="95.25"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="125.25"/>
+   <Column ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="126.75" ss:Span="1"/>
+   <Column ss:Index="15" ss:StyleID="s21" ss:AutoFitWidth="0" ss:Width="180.75"/>
+   <Column ss:StyleID="s32" ss:Width="55.5"/>
+   <Column ss:StyleID="s32" ss:AutoFitWidth="0" ss:Span="104"/>
+   <Row ss:AutoFitHeight="0" ss:Height="35.25">
+    <Cell ss:Index="2" ss:MergeAcross="13" ss:StyleID="s83"><Data ss:Type="String">მიმდინარე სამშენებლო სამუშაოები</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21">
+    <Cell ss:Index="2" ss:StyleID="s22"><Data ss:Type="Number">1</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">4</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">8</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">9</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">11</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">12</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">13</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><NamedCell ss:Name="Print_Area"/></Cell>
+    <Cell ss:StyleID="s22"><Data ss:Type="Number">14</Data><NamedCell
+      ss:Name="Print_Area"/></Cell>
+   </Row>
+   <Row ss:Height="60">
+    <Cell ss:Index="2" ss:StyleID="s29"><Data ss:Type="String">№</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ქალაქი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">რეგიონი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">პროექტის დასახელება და ხელშეკრულების ნომერი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">დონორი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">კონტრაქტორი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">ხელშეკრულების ხელმოწერის თარიღი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">სამუშაოების დაწყების თარიღი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">სამუშაოების თავდაპირველი დასრულების თარიღი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">სამუშაოების შეცვლილი დასრულების თარიღი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">სამუშაოების თავდაპირველი ღირებულება, ლარი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">სამუშაოების შეცვლილი ღირებულება, ლარი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">შესრულებული სამუშაო </Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ანაზღაურებული თანხა, ლარი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="152.25" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s20"><Data ss:Type="Number">1</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">მესტია</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s52"><Data ss:Type="String">მესტიის წყალმომარაგების სათავე ნაგებობის მშენებლობა (ხელშ. # UWSCG/ICB/CW/2011-MES-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ერთობლივი საწარმო შპს &quot;ენგური 2006&quot; და შპს &quot;დაგი&quot;</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2011-10-10T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s55" ss:Formula="=RC[-1]"><Data ss:Type="DateTime">2011-10-10T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s55"><Data ss:Type="DateTime">2013-04-01T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s55"><Data ss:Type="DateTime">2014-05-10T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5211656</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5541504.4500000002</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5526685.79</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">5436622.5539999995</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="103.5" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s20"><Data ss:Type="Number">2</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">მესტია</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">მესტიის წყალმომარაგებისა და წყალარინების ქსელების მშენებლობა (ხელშ. # UWSCG/ICB/CW/2011-MES-02)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ერთობლივი საწარმო შპს &quot;ნიუ ენერჯი&quot; და შპს &quot;ენგური 2006&quot;</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2011-10-31T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s55" ss:Formula="=RC[-1]"><Data ss:Type="DateTime">2011-10-31T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="DateTime">2013-10-27T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s56"><Data ss:Type="String">07/15/2014 (WW/WS)&#10;03/31/2014 (SC)&#10;11/02/2014 (Add.works)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">12184951.199999999</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">12797262.77</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">12062724.560000001</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">10754401.021999996</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="165" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s50"><Data ss:Type="Number">3</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">ანაკლია</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s51"><Data ss:Type="String">ანაკლიის წყალმომარაგებისა და წყალარინების სისტემის მშენებლობა (ხელშ. # UWSCG/ICB/CW/2012-ANA-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">შპს &quot;ფერი&quot;</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2012-01-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s55" ss:Formula="=RC[-1]"><Data ss:Type="DateTime">2012-01-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s53"><Data ss:Type="DateTime">2013-07-07T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s55"><Data ss:Type="String">4/30/2014 (WS/SC)&#10;05/07/2014 (WW)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">22946800.920000002</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">24396649</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">24293646.530000001</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s66"><Data ss:Type="Number">24117036.593000006</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s50"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s51"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s50"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s50"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s20"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s50"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s54"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s54"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="297">
+    <Cell ss:MergeDown="10" ss:StyleID="s35"><Data ss:Type="String">ADB</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">4</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ქუთაისი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">იმერეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">ქუთაისის წყალმომარაგების სისტემის მშენებლობა-რეაბილიტაცია (ხელშ. # UWSCG/ICB/CW/2013-REG-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">COBRA Instalaciones Y Servicios SA (ესპანეთი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2013-07-04T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2013-09-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-03-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-04-15T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">26501601.469999999</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">30616335.649999999</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">31701655.920000002</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">31701655.920000002</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="297" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s30"><Data ss:Type="Number">5</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ანაკლია</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">ანაკლიის წყალმომარაგების სისტემის მშენებლობა-რეაბილიტაციაUWSCG/ICB/CW/2013 - REG-01</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">COBRA Instalaciones Y Servicios SA (ესპანეთი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2013-07-04T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2013-09-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s43"><Data ss:Type="DateTime">2015-03-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s43"><Data ss:Type="DateTime">2015-07-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">12044811.109999999</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">10707058.470000001</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">10867369.16</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">10867369.16</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="195" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s30"><Data ss:Type="Number">6</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ფოთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">ფოთის წყალმომარაგების სისტემის მშენებლობა-რეაბილიტაცია (ხელშ. # UWSCG/ICB/CW/2013-REG-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">COBRA Instalaciones Y Servicios SA (ესპანეთი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2013-07-04T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2013-09-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-03-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-05-16T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">21203028.039999999</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">24270689.23</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">25423395.219999999</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">24154061.079999998</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="240" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s30"><Data ss:Type="Number">7</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ანაკლია, ფოთი, ქუთაისი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">იმერეთი, სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">(ხელშ. # UWSCG/ICB/CW/2013-REG-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">COBRA Instalaciones Y Servicios SA (ესპანეთი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-12-14T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-12-14T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2017-08-26T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2018-07-30T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">5109293.54</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">5548582.1100000003</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">4973653.8499999996</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">4418795.6399999997</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s48"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s33">
+    <Cell ss:Index="2" ss:StyleID="s41"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s41"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s41"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s44"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s44"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s44"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s45"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s45"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s45"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s46"><Data ss:Type="String">ჯამი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39" ss:Formula="=R[-4]C+R[-3]C+R[-2]C"><Data
+      ss:Type="Number">59749440.619999997</Data><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data ss:Type="Number">71142665.459999993</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data ss:Type="Number">72966074.149999991</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39" ss:Formula="=SUM(R[-4]C:R[-1]C)"><Data ss:Type="Number">71141881.799999997</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="210" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s30"><Data ss:Type="Number">8</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">მესტია</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">მესტიის წყლის გამწმენდი ნაგებობის მშენებლობა (ხელშ. # UWSCG/USIIP/ICB/CW/REG-02)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ერთობლივი საწარმო Ludwig Pfeiffer Hoch-und Tiefbau GmbH &amp; Co.KG (გერმანია) და  ProtechnoSrl (იტალია)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2014-09-22T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2014-12-08T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-12-06T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2017-09-22T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"
+     ss:Formula="=10230891.18*'\\192.168.11.113\Users\guwsc\AppData\Roaming\Skype\My Skype Received Files\[ONGOING Investment Progress Updated 28.06.2016 ღუდუ.xlsx]info'!R[-9]C[-9]"><Data
+      ss:Type="Number">21956515.561398</Data><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">21956496.668400001</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76" ss:Formula="=17896398.87+1275969"><Data ss:Type="Number">19172367.870000001</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">15834641.881637899</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="75" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s30"><Data ss:Type="Number">9</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ანაკლია</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">ანაკლიის კანალიზაციის გამწმენდი ნაგებობის მშენებლობა (ხელშ. # UWSCG/USIIP/ICB/CW/REG-02)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ერთობლივი საწარმო Ludwig Pfeiffer Hoch-und Tiefbau GmbH &amp; Co.KG (გერმანია) და  ProtechnoSrl (იტალია)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2014-09-22T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2014-12-08T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-12-06T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31" ss:Formula="=RC[-1]"><Data ss:Type="DateTime">2016-12-06T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"
+     ss:Formula="=9272589.86*'\\192.168.11.113\Users\guwsc\AppData\Roaming\Skype\My Skype Received Files\[ONGOING Investment Progress Updated 28.06.2016 ღუდუ.xlsx]info'!R[-10]C[-9]"><Data
+      ss:Type="Number">19899905.098545998</Data><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">20771631.43</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">20699868.190000001</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">17659073.462036502</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:StyleID="s47">
+    <Cell ss:Index="2" ss:StyleID="s41"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s41"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s41"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s44"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s44"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s44"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s45"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s45"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s45"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s46"><Data ss:Type="String">ჯამი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">41856420.659943998</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s79" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">42728128.098399997</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">39872236.060000002</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39" ss:Formula="=R[-2]C+R[-1]C"><Data ss:Type="Number">33493715.343674399</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="299.25" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s30"><Data ss:Type="Number">10</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ურეკი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">გურია</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">ურეკის წყალმომარაგებისა და კანალიზაციის სისტემის მშენებლობა (ხელშ. # P43405-ICB-URE-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ერთობლივი საწარმო შპს &quot;ფერი&quot; (საქართველო) და შპს &quot;სლონი&quot; (აზერბაიჯანი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2014-10-28T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2014-11-24T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2017-11-22T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2019-01-31T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"><Data ss:Type="Number">61645406.359999999</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">63612804.430396572</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">49970020.248064153</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">47308095.446444906</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="240" ss:StyleID="s42">
+    <Cell ss:Index="2" ss:StyleID="s30"><Data ss:Type="Number">11</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ურეკი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">გურია</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s38"><Data ss:Type="String">ურეკის კანალიზაციის გამწმენდი ნაგებობის მშენებლობა (ხელშ. # P43405-ICB-URE-02)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ერთობლივი საწარმო Ludwig Pfeiffer Hoch-und Tiefbau GmbH and Co.KG ProtechnoSrl (გერმანია) / Aritim (თურქეთი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2015-04-30T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2015-06-09T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2017-06-09T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2018-09-30T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39"
+     ss:Formula="=7459808.23*'\\192.168.11.113\Users\guwsc\AppData\Roaming\Skype\My Skype Received Files\[ONGOING Investment Progress Updated 28.06.2016 ღუდუ.xlsx]info'!R[-13]C[-9]"><Data
+      ss:Type="Number">16009494.442403002</Data><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s77" ss:Formula="=17315973.83+636441.15"><Data
+      ss:Type="Number">17952414.979999997</Data><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s78"><Data ss:Type="Number">17481764.856578566</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">17365531.568888329</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="162">
+    <Cell ss:Index="2" ss:StyleID="s30"><Data ss:Type="Number">12</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ქუთაისი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">იმერეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ქუთაისის წყალმომარაგების სისტემის მშენებლობა-რეაბილიტაცია - II  ფაზა (ხელშ. # P43405-ICB-KUT-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">SMK Ulusal Insaat Ve Ticaret A.S. (თურქეთი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2015-04-22T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2015-06-08T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2018-06-06T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2019-04-18T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">86963479.810000002</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">92961717.790000007</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">48249050.597051211</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">57911833.401428938</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="248.25">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">13</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ზუგდიდი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ზუგდიდის სასმელი წყლის სისტემების მშენებლობა (ხელშ. # P43405-ICB-ZUG-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">AS Inshaat LLC (აზერბაიჯანი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2015-10-26T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2015-12-09T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26" ss:Formula="=RC[-1]+1095"><Data ss:Type="DateTime">2018-12-08T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s36" ss:Formula="=RC[-1]"><Data ss:Type="DateTime">2018-12-08T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71" ss:Formula="=39593106.46*2.4049"><Data ss:Type="Number">95217461.725654006</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s71"><Data ss:Type="Number">94135806.48268652</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">71804951.055147603</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">67586924.152097598</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="129.75">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s61"><Data ss:Type="Number">14</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">ფოთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">ფოთის კანალიზაციის ქსელების მშენებლობა (ხელშ. # P43405-ICB-POT-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s61"><Data ss:Type="String">Azeragrartikinti OJSC (აზერბაიჯანი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="DateTime">2015-12-25T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s57"><Data ss:Type="DateTime">2016-02-26T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s57" ss:Formula="=RC[-1]+1095"><Data ss:Type="DateTime">2019-02-25T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s63" ss:Formula="=RC[-1]"><Data ss:Type="DateTime">2019-02-25T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s64"
+     ss:Formula="=37444533.14*'\\192.168.11.113\Users\guwsc\Desktop\[ONGOING Investment Progress Updated 15.06.2016(არჩ).xlsx]info'!R[-16]C[-9]"><Data
+      ss:Type="Number">80359712.571754009</Data><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="Number">82414799.569999993</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s34"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s67"><Data ss:Type="Number">9287274.8900000006</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="180">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">15</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ზუგდიდი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ზუგდიდის წყალარინების ქსელების მშენებლობა (ხელშ. # P43405-ICB-ZUG-02)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Ludwig Pfeiffer Hoch-und Tiefbau GmbH and Co.KG (გერმანია)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2016-10-26T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2017-02-01T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2020-02-01T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2020-02-01T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">84914790.150000006</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">84914790.150000006</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">18607038.457211461</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s76"><Data ss:Type="Number">32077042.435074471</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="150">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">16</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ჯვარი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ჯვრის წყალმომარაგების სისტემის მშენებლობა (ხელშ. # P43405-DC-JVARI-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">AS Inshaat LLC (აზერბაიჯანი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2017-01-17T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2017-04-05T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2018-09-27T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2018-09-27T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">19217254.68</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">19217254.68</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">3335601.2651608004</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">5967470.9782573823</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="150" ss:StyleID="s42">
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">17</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ჭიათურა</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">იმერეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">ჭიათურის წყალმომარაგების სისტემის მშენებლობა (ხელშ. # P43405-ICB-CHI-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">Akkord Industry Construction Investment Corporation OJSC (აზერბაიჯანი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2017-08-21T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2017-10-23T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2019-04-15T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2019-04-15T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70"><Data ss:Type="Number">36646829.403839998</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s70" ss:Formula="=RC[-1]"><Data ss:Type="Number">36646829.403839998</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s72"><Data ss:Type="Number">3358572.39</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">8179596.3590397704</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="166.5">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">18</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აბაშა</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">აბაშის გადამცემი ხაზის მშენებლობა (ხელშ. # P43405-DC-ABA-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">AS Inshaat LLC (აზერბაიჯანი)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2017-10-13T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2018-02-02T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2019-02-02T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2019-02-02T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12192711.1</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12192711.1</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">252511.67550000004</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">2834253.5967621394</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="150">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">19</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ზუგდიდი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ზუგდიდის წყალარინების გამწმენდი ნაგებობის მშენებლობა (ხელშ. # UWSCG-USIIP-ICB-REG-03a)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ერთობლივი საწარმო &quot;Ludwig Pfeiffer Hoch-und Tiefbau GmbH and Co.KG&quot; (გერმანია) და &quot;EMIT Group - Ercole Marelli Impianti Tecnologici S.r.l.&quot; (იტალია)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2017-12-11T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2018-01-15T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2020-01-15T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2020-01-15T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">42369454.060000002</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">42369454.060000002</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s75"><Data ss:Type="Number">1386986.709</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">4807425.7433410855</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="150">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">20</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ფოთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ფოთის წყალარინების სისტემების მშენებლობა (ხელშ. P43405-ICB-POT-01)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">Tahal Group BV (ჰოლანდია)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2017-12-20T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2018-02-12T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2020-07-31T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2020-07-31T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">89943800.219972998</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">89943800.219972998</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s34"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">8714729.0600000005</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="150">
+    <Cell ss:StyleID="s35"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">21</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">ფოთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">სამეგრელო-ზემო სვანეთი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s40"><Data ss:Type="String">ფოთის წყალარინების გამწმენდი ნაგებობის მშენებლობა (ხელშ. # UWSCG-ICB-POT-02)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">ერთობლივი საწარმო &quot;Ludwig Pfeiffer Hoch-und Tiefbau GmbH and Co.KG&quot; (გერმანია) და &quot;EMIT Group - Ercole Marelli Impianti Tecnologici S.r.l.&quot; (იტალია)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2017-12-21T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">20-Feb-18</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2020-02-20T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="DateTime">2020-02-20T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">44684016.18</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">44684016.18</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s34"><NamedCell ss:Name="Print_Area"/><NamedCell
+      ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">4384916.47</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+   <Row ss:Height="75" ss:StyleID="s42">
+    <Cell ss:StyleID="s68"/>
+    <Cell ss:StyleID="s30"><Data ss:Type="Number">22</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">თბილისი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">თბილისი</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s69"><Data ss:Type="String">საქართველოს გაერთიანებული წყალმომარაგების კომპანიის სათაო ოფისის მშენებლობა (ხელშ. #UWSCG/CW/ICB/Office-01-2015)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">აზიის განვითარების ბანკი (ADB)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">შპს დაგი (საქართველო)</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2015-12-01T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31"><Data ss:Type="DateTime">2016-03-01T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s31" ss:Formula="=RC[-1]+540"><Data ss:Type="DateTime">2017-08-23T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s43"><Data ss:Type="DateTime">2017-08-23T00:00:00.000</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s39" ss:Formula="=9989087.79"><Data ss:Type="Number">9989087.7899999991</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s37"><Data ss:Type="Number">10738499.49</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s73"><Data ss:Type="Number">997280.54</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:StyleID="s74"><Data ss:Type="Number">2695913.94</Data><NamedCell
+      ss:Name="Print_Area"/><NamedCell ss:Name="_FilterDatabase"/></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Layout x:Orientation="Landscape" x:CenterHorizontal="1"/>
+    <Header x:Margin="0.31496062992125984"/>
+    <Footer x:Margin="0.31496062992125984"/>
+    <PageMargins x:Bottom="0.51181102362204722" x:Left="0.31496062992125984"
+     x:Right="0.35433070866141736" x:Top="0.59055118110236227"/>
+   </PageSetup>
+   <Print>
+    <FitHeight>100</FitHeight>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>8</PaperSizeIndex>
+    <Scale>45</Scale>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Zoom>50</Zoom>
+   <PageBreakZoom>30</PageBreakZoom>
+   <Selected/>
+   <LeftColumnVisible>1</LeftColumnVisible>
+   <FreezePanes/>
+   <FrozenNoSplit/>
+   <SplitHorizontal>3</SplitHorizontal>
+   <TopRowBottomPane>21</TopRowBottomPane>
+   <ActivePane>2</ActivePane>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveCol>3</ActiveCol>
+    </Pane>
+    <Pane>
+     <Number>2</Number>
+     <ActiveRow>4</ActiveRow>
+     <ActiveCol>9</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+  <PageBreaks xmlns="urn:schemas-microsoft-com:office:excel">
+   <RowBreaks>
+    <RowBreak>
+     <Row>16</Row>
+     <ColStart>1</ColStart>
+     <ColEnd>28</ColEnd>
+    </RowBreak>
+   </RowBreaks>
+  </PageBreaks>
+  <AutoFilter x:Range="R3C2:R28C15"
+   xmlns="urn:schemas-microsoft-com:office:excel">
+  </AutoFilter>
+ </Worksheet>
+</Workbook>

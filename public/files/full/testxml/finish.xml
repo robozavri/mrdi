@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>ქალაქის, მაჩხვარეთის ადმინისტრაციულ ერთეულებში შიდა გზებე რკ/ბეტონის სანიაღვრე არხების მოწყობა</project_title>
+		<ganxorcielebis_adgili>ქ. ლანჩხუთი;
+სოფელი მაჩხვარეთი</ganxorcielebis_adgili>
+		<category>სანიაღვრე სისტემები</category>
+		<project_expsne_doc>მზადაა</project_expsne_doc>
+		<gov_budget_local>სახელმწიფო ბიუჯეტი</gov_budget_local>
+		<source_funding>რეგ. ფონდი</source_funding>
+		<kind_of_job>რეაბილიტაცია</kind_of_job>
+		<funding_year>2018</funding_year>
+		<year_compensation_amount>648150</year_compensation_amount>
+		<mony_todo_project>615742</mony_todo_project>
+		<co_funding>32408</co_funding>
+		<co_funding_procent>5.00007714263674</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000010</current_tender_number>
+		<tender_announcement_date>43139</tender_announcement_date>
+		<date_signing_contract>43161</date_signing_contract>
+		<tender_status>ხელშეკრულება დადებულია</tender_status>
+		<project_duration>ერთწლიანი</project_duration>
+		<contractual_value>648188</contractual_value>
+		<contractual_value_rgpf>615778.099970686</contractual_value_rgpf>
+		<job_start_date>43188</job_start_date>
+		<job_finish_date>43308</job_finish_date>
+		<job_finish_date_deferreded>43342</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>648188</actual_performance_lari>
+		<cash_performance_cofinancing_lari>644492</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>612266.902821878</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>ხარჯთაღრიცხვის კორექტირების გამო, სამუშაოების დასრულების ვადა გაგრძელდა </note>
+		<tender_winner_company_contact>ამხანაგობა ,,ჯ.ჯ.კ"
+ჯამბულ შუღლაძე
+ს/კ 221287621
++99599555866</tender_winner_company_contact>
+		<quantitative_indicator>6570</quantitative_indicator>
+		<count_beneficiaries_undirect>1600</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>ქალაქ ლანჩხუთში მრავალბინიანი სახლის სახურავის შეკეთება</project_title>
+		<ganxorcielebis_adgili>ქ. ლანჩხუთი,
+</ganxorcielebis_adgili>
+		<category>მრავალბინიანი კორპუსები</category>
+		<year_compensation_amount>105965</year_compensation_amount>
+		<mony_todo_project>100667</mony_todo_project>
+		<co_funding>5298</co_funding>
+		<co_funding_procent>4.99976407304299</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000035</current_tender_number>
+		<tender_announcement_date>43174</tender_announcement_date>
+		<date_signing_contract>43195</date_signing_contract>
+		<contractual_value>105965</contractual_value>
+		<contractual_value_rgpf>100667</contractual_value_rgpf>
+		<job_start_date>43269</job_start_date>
+		<job_finish_date>43360</job_finish_date>
+		<job_finish_date_deferreded>43360</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>105965</actual_performance_lari>
+		<cash_performance_cofinancing_lari>96870</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>92026.7285424433</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>DAP180000018 დასრულებულია უარყოფითი შედეგით; </note>
+		<tender_winner_company_contact>შპს იმერეთი 2014;
+ს/კ 443568060
+გოჩა აბულაძე/ 
+595484297</tender_winner_company_contact>
+		<quantitative_indicator>2</quantitative_indicator>
+		<count_beneficiaries_undirect>450</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>ლანჩხუთის მუნიციპალიტეტში ჯურუყვეთის, ლესის და შუხუთის ადმინიტრაციულ ერთეულებში წყალმომარაგების სიტემის მშენებლობა, რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>ჯურუყვეთი;
+ ლესა; ჭინათი;
+ ქვ.შუხუთი.</ganxorcielebis_adgili>
+		<category>წყალმომარაგება</category>
+		<year_compensation_amount>402610</year_compensation_amount>
+		<mony_todo_project>382479</mony_todo_project>
+		<co_funding>20131</co_funding>
+		<co_funding_procent>5.00012418966245</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000037</current_tender_number>
+		<tender_announcement_date>43179</tender_announcement_date>
+		<date_signing_contract>43201</date_signing_contract>
+		<contractual_value>402610</contractual_value>
+		<contractual_value_rgpf>382479</contractual_value_rgpf>
+		<job_start_date>43223</job_start_date>
+		<job_finish_date>43343</job_finish_date>
+		<job_finish_date_deferreded>43358</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>402610</actual_performance_lari>
+		<cash_performance_cofinancing_lari>259186</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>246226.378117781</cash_performance_only_rgpf>
+		<acceptance_and_delivery>არა</acceptance_and_delivery>
+		<note>DAP180000017 დასრულდა უარყოფითი შედეგით; 
+</note>
+		<tender_winner_company_contact>ამხანაგობა ივერია A.G.
+გია გოთუა
+ს.კ.200287778
+593309596</tender_winner_company_contact>
+		<quantitative_indicator>7500</quantitative_indicator>
+		<count_beneficiaries_undirect>3700</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>ლანჩხუთის მუნიციპალიტეტში ჯიხეთის დედათა მონასტერთან მისასვლელი გზის რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>სოფელი ჯიხეთი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>991873</year_compensation_amount>
+		<mony_todo_project>991873</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180007606</current_tender_number>
+		<tender_announcement_date>43236</tender_announcement_date>
+		<date_signing_contract>43259</date_signing_contract>
+		<contractual_value>964888</contractual_value>
+		<contractual_value_rgpf>964888</contractual_value_rgpf>
+		<job_start_date>43301</job_start_date>
+		<job_finish_date>43424</job_finish_date>
+		<job_finish_date_deferreded>43429</job_finish_date_deferreded>
+		<actual_performance_procent>25</actual_performance_procent>
+		<actual_performance_lari>241222</actual_performance_lari>
+		<cash_performance_cofinancing_lari>247726</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>247726</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact>0</tender_winner_company_contact>
+		<quantitative_indicator>3000</quantitative_indicator>
+		<count_beneficiaries_undirect>5000</count_beneficiaries_undirect>
+		<reg_economy>26985</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>ლანჩხუთის მუნიციპალიტეტში აკეთის, აცანის, ჩიბათის, ნინოშვილის,ნიგვზიანის, მამათის და სუფსის ადმინისტრაციულ ერთეულებში რკინა ბეტონის სანიაღვრე არხების,რკინა ბეტონისა და ასფალტო ბეტონის საფარის მოწყობა</project_title>
+		<ganxorcielebis_adgili> აკეთის, აცანის, ჩიბათის,
+ ნინოშვილის,ნიგვზიანის,
+ მამათის და სუფსის 
+ადმინისტრაციულ ერთეულები</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>715317</year_compensation_amount>
+		<mony_todo_project>715317</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180007391</current_tender_number>
+		<tender_announcement_date>43234</tender_announcement_date>
+		<date_signing_contract>43255</date_signing_contract>
+		<contractual_value>715317</contractual_value>
+		<contractual_value_rgpf>715317</contractual_value_rgpf>
+		<job_start_date>43283</job_start_date>
+		<job_finish_date>43403</job_finish_date>
+		<job_finish_date_deferreded>43403</job_finish_date_deferreded>
+		<actual_performance_procent>62</actual_performance_procent>
+		<actual_performance_lari>443496.54</actual_performance_lari>
+		<cash_performance_cofinancing_lari>455366</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>455366</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები. კომისია მიიღო გადაწყვეტილება და კომპანიას სამუშაოების ვადა გაუგრძელდა 9.11-მდე</note>
+		<tender_winner_company_contact>შპს AWARD
+ლევან ჭკადუა
+ს.კ.404406914
+599512727</tender_winner_company_contact>
+		<quantitative_indicator>4200</quantitative_indicator>
+		<count_beneficiaries_undirect>4500</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>ლანჩხუთის მუნიციპალიტეტში ბავშვთა საფეხბურთო სკოლის შენობის რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>გვიმბალაურის ადმინისტრაციული ერთეული</ganxorcielebis_adgili>
+		<category>სპორტული ინფრასტრუქტურა</category>
+		<year_compensation_amount>776774</year_compensation_amount>
+		<mony_todo_project>776774</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180007517</current_tender_number>
+		<tender_announcement_date>43235</tender_announcement_date>
+		<date_signing_contract>43257</date_signing_contract>
+		<contractual_value>776774</contractual_value>
+		<contractual_value_rgpf>776774</contractual_value_rgpf>
+		<job_start_date>43293</job_start_date>
+		<job_finish_date>43416</job_finish_date>
+		<job_finish_date_deferreded>43444</job_finish_date_deferreded>
+		<actual_performance_procent>28</actual_performance_procent>
+		<actual_performance_lari>217496.72</actual_performance_lari>
+		<cash_performance_cofinancing_lari>77684</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>77684</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>დასრულების ვადა გაგრძელდა </note>
+		<tender_winner_company_contact>შპს ნიკა
+მამუკა ჯიმშერაძე
+ს.კ.448391758
+591717832</tender_winner_company_contact>
+		<quantitative_indicator>1</quantitative_indicator>
+		<count_beneficiaries_undirect>3600</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>საჭადრაკო სკოლის შენობის სრული რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>ქ.ლანჩხუთი</ganxorcielebis_adgili>
+		<category>სპორტული ინფრასტრუქტურა</category>
+		<year_compensation_amount>86416</year_compensation_amount>
+		<mony_todo_project>36416</mony_todo_project>
+		<co_funding>50000</co_funding>
+		<co_funding_procent>57.8596556193298</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>	NAT180013970</current_tender_number>
+		<tender_announcement_date>43346</tender_announcement_date>
+		<date_signing_contract>43367</date_signing_contract>
+		<contractual_value>85000</contractual_value>
+		<contractual_value_rgpf>35819.2927235697</contractual_value_rgpf>
+		<job_start_date>43385</job_start_date>
+		<job_finish_date>43462</job_finish_date>
+		<job_finish_date_deferreded>43449</job_finish_date_deferreded>
+		<actual_performance_procent>2</actual_performance_procent>
+		<actual_performance_lari>1700</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>NAT180012001 არ შედგა; სამუშაოები მიმდინარეობს</note>
+		<tender_winner_company_contact> შპს დიდგორი/
+445470623
+ბათუმი, ნინო ვარშანიძე/
++995 577456161</tender_winner_company_contact>
+		<quantitative_indicator>1</quantitative_indicator>
+		<count_beneficiaries_undirect>450</count_beneficiaries_undirect>
+		<reg_economy>596.707276430291</reg_economy>
+		<adg_economy>819.292723569704</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>ნიგვზიანის ადმინისტრაციულ ერთეულში, ეგნატე ნინოშვილის სახლ-მუზეუმთან მისასვლელი გზის აღდგენა</project_title>
+		<ganxorcielebis_adgili>ნიგვზიანის ადმინისტრაციული ერთეული</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>631580</year_compensation_amount>
+		<mony_todo_project>600000</mony_todo_project>
+		<co_funding>31580</co_funding>
+		<co_funding_procent>5.00015833306944</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180012145</current_tender_number>
+		<tender_announcement_date>43315</tender_announcement_date>
+		<date_signing_contract>43336</date_signing_contract>
+		<contractual_value>631580</contractual_value>
+		<contractual_value_rgpf>600000</contractual_value_rgpf>
+		<job_start_date>43369</job_start_date>
+		<job_finish_date>43615</job_finish_date>
+		<job_finish_date_deferreded>43454</job_finish_date_deferreded>
+		<actual_performance_procent>3</actual_performance_procent>
+		<actual_performance_lari>18947.4</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>პროექტის ღირებუელბა 948,000 </note>
+		<tender_winner_company_contact>შპს საგზაო
+დავით სხულუხია
+ს.კ.419993029
+595900954</tender_winner_company_contact>
+		<quantitative_indicator>8850</quantitative_indicator>
+		<count_beneficiaries_undirect>2600</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ლანჩხუთი</municipalitet>
+		<project_title>ქალაქის ადმინისტრაციულ ერთეულში შიდა გზებზე რკინა ბეტონის სანიაღვრე არხის და ასფალტობეტონის საფარის მოწყობა</project_title>
+		<ganxorcielebis_adgili>ქ.ლანჩხუთი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>431101</year_compensation_amount>
+		<mony_todo_project>409545</mony_todo_project>
+		<co_funding>21556</co_funding>
+		<co_funding_procent>5.00022036599312</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180013489</current_tender_number>
+		<tender_announcement_date>43336</tender_announcement_date>
+		<date_signing_contract>43357</date_signing_contract>
+		<contractual_value>365000</contractual_value>
+		<contractual_value_rgpf>346749.195664125</contractual_value_rgpf>
+		<job_start_date>43389</job_start_date>
+		<job_finish_date>43462</job_finish_date>
+		<job_finish_date_deferreded>43449</job_finish_date_deferreded>
+		<actual_performance_procent>2</actual_performance_procent>
+		<actual_performance_lari>7300</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>სამუშაოები მიმდინარეობს</note>
+		<tender_winner_company_contact>შპს "პალადა"/205180472/თბილისი
+ი. ჭავჭავაძის გამზ. N55/მენეჯერი ირაკლი ჩხაიძე 597 222202</tender_winner_company_contact>
+		<quantitative_indicator>2703</quantitative_indicator>
+		<count_beneficiaries_undirect>590</count_beneficiaries_undirect>
+		<reg_economy>62795.8043358749</reg_economy>
+		<adg_economy>3305.19566412511</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>სოფ.ბოხვაური- სოფ.შემოქმედის დამაკავშირებელი გზის ასფალტო-ბეტონის საფარით მოწყობა -მე-3 ეტაპი 1.340 კმ</project_title>
+		<ganxorcielebis_adgili>ბოხვაური; 
+შემოქმედი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>494215</year_compensation_amount>
+		<mony_todo_project>355834</mony_todo_project>
+		<co_funding>138381</co_funding>
+		<co_funding_procent>28.0001618728691</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000011</current_tender_number>
+		<tender_announcement_date>43143</tender_announcement_date>
+		<date_signing_contract>43164</date_signing_contract>
+		<contractual_value>494215</contractual_value>
+		<contractual_value_rgpf>355834</contractual_value_rgpf>
+		<job_start_date>43201</job_start_date>
+		<job_finish_date>43323</job_finish_date>
+		<job_finish_date_deferreded>43323</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>494215</actual_performance_lari>
+		<cash_performance_cofinancing_lari>494214</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>355833.280001619</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს ფემინი კონსტრაქშენ გრუპ/ 400088123/ ქ. ბათუმი ზუბალაშვილის ქ. #32/ნინო აგაჯანოვი დირექტორი 599772570</tender_winner_company_contact>
+		<quantitative_indicator>1340</quantitative_indicator>
+		<count_beneficiaries_undirect>5200</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>სოფ. ვაკიჯვარი (ფამფალეთი)-სოფ.მთისპირის საავტომობილო გზის რეაბილიტაცია. მე-3 ეტაპი 1.755 კმ</project_title>
+		<ganxorcielebis_adgili>ვაკიჯვარი;
+მთისპირი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>865903</year_compensation_amount>
+		<mony_todo_project>623450</mony_todo_project>
+		<co_funding>242453</co_funding>
+		<co_funding_procent>28.0000184778203</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000012</current_tender_number>
+		<tender_announcement_date>43143</tender_announcement_date>
+		<date_signing_contract>43166</date_signing_contract>
+		<contractual_value>865903</contractual_value>
+		<contractual_value_rgpf>623450</contractual_value_rgpf>
+		<job_start_date>43192</job_start_date>
+		<job_finish_date>43345</job_finish_date>
+		<job_finish_date_deferreded>43345</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>865903</actual_performance_lari>
+		<cash_performance_cofinancing_lari>851515</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>613090.642658589</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს ,,გზამშენი 18" /237081206/თეიმურაზ ჯახვა/ 599 553551/</tender_winner_company_contact>
+		<quantitative_indicator>1755</quantitative_indicator>
+		<count_beneficiaries_undirect>2520</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ნასაკირალი-მელექედურის გზა - მე-2 ეტაპი  1.700 კმ</project_title>
+		<ganxorcielebis_adgili>დაბა ნასაკირალი; 
+სოფ. მელექედური</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>662011</year_compensation_amount>
+		<mony_todo_project>476648</mony_todo_project>
+		<co_funding>185363</co_funding>
+		<co_funding_procent>27.9999879156087</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000013</current_tender_number>
+		<tender_announcement_date>43143</tender_announcement_date>
+		<date_signing_contract>43168</date_signing_contract>
+		<contractual_value>662011</contractual_value>
+		<contractual_value_rgpf>476648</contractual_value_rgpf>
+		<job_start_date>43215</job_start_date>
+		<job_finish_date>43368</job_finish_date>
+		<job_finish_date_deferreded>43368</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>662011</actual_performance_lari>
+		<cash_performance_cofinancing_lari>652935</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>470113.278903221</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს "პალადა"/205180472/თბილისი
+ი. ჭავჭავაძის გამზ. N55/მენეჯერი ირაკლი ჩხაიძე 597 222202</tender_winner_company_contact>
+		<quantitative_indicator>1700</quantitative_indicator>
+		<count_beneficiaries_undirect>2500</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ოზურგეთის მუნიციპალიტეტის სოფლების წითელმთა-მაკვანეთის დამაკავშირებელი გზის რეაბილიტაცია მე-2 ეტაპი 0.4470 კმ</project_title>
+		<ganxorcielebis_adgili>წითელმთა; 
+მაკვანეთი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>200342</year_compensation_amount>
+		<mony_todo_project>144246</mony_todo_project>
+		<co_funding>56096</co_funding>
+		<co_funding_procent>28.0001197951503</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP170000122</current_tender_number>
+		<tender_announcement_date>42944</tender_announcement_date>
+		<date_signing_contract>42968</date_signing_contract>
+		<contractual_value>200342</contractual_value>
+		<contractual_value_rgpf>144246</contractual_value_rgpf>
+		<job_start_date>43003</job_start_date>
+		<job_finish_date>43221</job_finish_date>
+		<job_finish_date_deferreded>43221</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>200342</actual_performance_lari>
+		<cash_performance_cofinancing_lari>200638</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>144459.119645406</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note> პროექტის სრული ღირებულება 1 200 342</note>
+		<tender_winner_company_contact>შპს ,,გზამშენი 18" /237081206/თეიმურაზ ჯახვა/ 599 553551/</tender_winner_company_contact>
+		<quantitative_indicator>447</quantitative_indicator>
+		<count_beneficiaries_undirect>1800</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ოზურგეთის მუნიციპალიტეტის სოფ.სილაურის ცენტრიდან ოზურგეთი-ნინოშვილი-ლესას მიმართულებით გზის რეაბილიტაცია-    2.565 კმ</project_title>
+		<ganxorcielebis_adgili>სილაური</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>843510</year_compensation_amount>
+		<mony_todo_project>607327</mony_todo_project>
+		<co_funding>236183</co_funding>
+		<co_funding_procent>28.000023710448</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000014</current_tender_number>
+		<tender_announcement_date>43143</tender_announcement_date>
+		<date_signing_contract>43168</date_signing_contract>
+		<contractual_value>843510</contractual_value>
+		<contractual_value_rgpf>607327</contractual_value_rgpf>
+		<job_start_date>43220</job_start_date>
+		<job_finish_date>43373</job_finish_date>
+		<job_finish_date_deferreded>43373</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>843510</actual_performance_lari>
+		<cash_performance_cofinancing_lari>838350</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>603611.801223459</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact> შპს ერ ტე დე/406102550/ილია კეკელიძე/598415549</tender_winner_company_contact>
+		<quantitative_indicator>2565</quantitative_indicator>
+		<count_beneficiaries_undirect>900</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>სოფ.ჭანიეთის ცენტრის გავლით სოფ.ქაქუთის დასაწყისამდე გზის (პირველი- მონაკვეთის ) რეაბილიტაცია- 1.979 კმ</project_title>
+		<ganxorcielebis_adgili>ჭანიეთი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>813299</year_compensation_amount>
+		<mony_todo_project>585576</mony_todo_project>
+		<co_funding>227723</co_funding>
+		<co_funding_procent>27.9999114716728</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000015</current_tender_number>
+		<tender_announcement_date>43143</tender_announcement_date>
+		<date_signing_contract>43171</date_signing_contract>
+		<contractual_value>813299</contractual_value>
+		<contractual_value_rgpf>585576</contractual_value_rgpf>
+		<job_start_date>43220</job_start_date>
+		<job_finish_date>43373</job_finish_date>
+		<job_finish_date_deferreded>43373</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>813299</actual_performance_lari>
+		<cash_performance_cofinancing_lari>811919</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>584582.398778309</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact> შპს ერ ტე დე/406102550/ილია კეკელიძე/598415549</tender_winner_company_contact>
+		<quantitative_indicator>1979</quantitative_indicator>
+		<count_beneficiaries_undirect>1250</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ოზურგეთის მუნიციპალიტეტის სოფ. შემოქმედის ცენტრი-გორისფერდის საავტომობილო გზის რეაბილიტაცია-1.600 კმ</project_title>
+		<ganxorcielebis_adgili>შემოქმედი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>420239</year_compensation_amount>
+		<mony_todo_project>302572</mony_todo_project>
+		<co_funding>117667</co_funding>
+		<co_funding_procent>28.0000190367862</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP180000016</current_tender_number>
+		<tender_announcement_date>43143</tender_announcement_date>
+		<date_signing_contract>43173</date_signing_contract>
+		<contractual_value>420239</contractual_value>
+		<contractual_value_rgpf>302572</contractual_value_rgpf>
+		<job_start_date>43220</job_start_date>
+		<job_finish_date>43342</job_finish_date>
+		<job_finish_date_deferreded>43342</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>420239</actual_performance_lari>
+		<cash_performance_cofinancing_lari>419521</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>302055.040136684</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს ,,გზამშენი 18" /237081206/თეიმურაზ ჯახვა/ 599 553551/</tender_winner_company_contact>
+		<quantitative_indicator>1600</quantitative_indicator>
+		<count_beneficiaries_undirect>400</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>არტემ ერქომაიშვილის სახელობის სიმღერისა და გალობის მუზეუმის მშენებლობა (სოფ.მაკვანეთი)</project_title>
+		<ganxorcielebis_adgili>მაკვანეთი</ganxorcielebis_adgili>
+		<category>კულტურის ობიექტები</category>
+		<year_compensation_amount>264046</year_compensation_amount>
+		<mony_todo_project>190113</mony_todo_project>
+		<co_funding>73933</co_funding>
+		<co_funding_procent>28.0000454466267</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>DAP170000072</current_tender_number>
+		<tender_announcement_date>42877</tender_announcement_date>
+		<date_signing_contract>42900</date_signing_contract>
+		<contractual_value>365388</contractual_value>
+		<contractual_value_rgpf>263079.19394348</contractual_value_rgpf>
+		<job_start_date>42942</job_start_date>
+		<job_finish_date>43343</job_finish_date>
+		<job_finish_date_deferreded>43399</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>365388</actual_performance_lari>
+		<cash_performance_cofinancing_lari>210885</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>151837.104159881</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>"პროექტის დაკორექტირების შედეგად სახელშეკრულებო ღირებულება გაიზარდა და გახდა 365 388ლ,
+დაემატა სამუშაოები და  სამუშაოების დასრულების ვადა  გაგრძელდა. ფაქტიური სამუშაოები დასრულებულია. 25.10-ში წარადგენს ფორმაN2-ს</note>
+		<tender_winner_company_contact>ი.მ გოჩა ერქომაიშვილი . 33001054340</tender_winner_company_contact>
+		<quantitative_indicator>1</quantitative_indicator>
+		<count_beneficiaries_undirect>3000</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ქალაქ ოზურგეთში, დაზიანებული ქუჩების (გიორგაძის, სანაპიროს,ჯორჯიაშვილის, წმ. გიორგის,შევარდნაძის,გენიჩესკის, გორკის და ინგოროყვას ქუჩებზე და ინგოროყვას ქუჩის შესახვევში და ქალაქ ოზურგეთში ალექსანდრე ყაზბეგის მე-3 შესახვევის სავალი ნაწილის ა/ბ საფარის მოწყობა. შესახვევში) სარეაბილიტაციო სამუშაოები.</project_title>
+		<ganxorcielebis_adgili>ქ.ოზურგეთი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>845694</year_compensation_amount>
+		<mony_todo_project>803409</mony_todo_project>
+		<co_funding>42285</co_funding>
+		<co_funding_procent>5.00003547382387</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011539</current_tender_number>
+		<tender_announcement_date>43306</tender_announcement_date>
+		<date_signing_contract>43327</date_signing_contract>
+		<contractual_value>837036</contractual_value>
+		<contractual_value_rgpf>795183.903071324</contractual_value_rgpf>
+		<job_start_date>43368</job_start_date>
+		<job_finish_date>43444</job_finish_date>
+		<job_finish_date_deferreded>43444</job_finish_date_deferreded>
+		<actual_performance_procent>35</actual_performance_procent>
+		<actual_performance_lari>292962.6</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact>შპს ფემინი კონსტრაქშენ გრუპ/ 400088123/ ქ. ბათუმი ზუბალაშვილის ქ. #32/ნინო აგაჯანოვი დირექტორი 599772570</tender_winner_company_contact>
+		<quantitative_indicator>1906</quantitative_indicator>
+		<count_beneficiaries_undirect>10000</count_beneficiaries_undirect>
+		<reg_economy>8225.09692867633</reg_economy>
+		<adg_economy>432.903071323666</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ქალაქ ოზურგეთში, დაზიანებული ქუჩების (გიორგაძის, სანაპიროს,ჯორჯიაშვილის, წმ. გიორგის,შევარდნაძის,გენიჩესკის, გორკის და ინგოროყვას ქუჩებზე და ინგოროყვას ქუჩის შესახვევში და ქალაქ ოზურგეთში ალექსანდრე ყაზბეგის მე-3 შესახვევის სავალი ნაწილის ა/ბ საფარის მოწყობა. შესახვევში) სარეაბილიტაციო სამუშაოები. (II)</project_title>
+		<ganxorcielebis_adgili>ქ.ოზურგეთი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>753939</year_compensation_amount>
+		<mony_todo_project>716242</mony_todo_project>
+		<co_funding>37697</co_funding>
+		<co_funding_procent>5.00000663183626</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011544</current_tender_number>
+		<tender_announcement_date>43306</tender_announcement_date>
+		<date_signing_contract>43327</date_signing_contract>
+		<contractual_value>743045</contractual_value>
+		<contractual_value_rgpf>705892.700722472</contractual_value_rgpf>
+		<job_start_date>43368</job_start_date>
+		<job_finish_date>43444</job_finish_date>
+		<job_finish_date_deferreded>43449</job_finish_date_deferreded>
+		<actual_performance_procent>40</actual_performance_procent>
+		<actual_performance_lari>297218</actual_performance_lari>
+		<cash_performance_cofinancing_lari>60490.66</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>57466.1229883585</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact>შპს ,,გზამშენი 18" /237081206/თეიმურაზ ჯახვა/ 599 553551/</tender_winner_company_contact>
+		<quantitative_indicator>1752</quantitative_indicator>
+		<count_beneficiaries_undirect>2500</count_beneficiaries_undirect>
+		<reg_economy>10349.2992775278</reg_economy>
+		<adg_economy>544.700722472241</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ქალაქ ოზურგეთში, დაზიანებული ქუჩების (გიორგაძის, სანაპიროს,ჯორჯიაშვილის, წმ. გიორგის,შევარდნაძის,გენიჩესკის, გორკის და ინგოროყვას ქუჩებზე და ინგოროყვას ქუჩის შესახვევში და ქალაქ ოზურგეთში ალექსანდრე ყაზბეგის მე-3 შესახვევის სავალი ნაწილის ა/ბ საფარის მოწყობა. შესახვევში) სარეაბილიტაციო სამუშაოები. (III)</project_title>
+		<ganxorcielebis_adgili>ქ.ოზურგეთი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>848330</year_compensation_amount>
+		<mony_todo_project>805914</mony_todo_project>
+		<co_funding>42416</co_funding>
+		<co_funding_procent>4.99994106067214</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011549</current_tender_number>
+		<tender_announcement_date>43306</tender_announcement_date>
+		<date_signing_contract>43327</date_signing_contract>
+		<contractual_value>717000</contractual_value>
+		<contractual_value_rgpf>681150.422594981</contractual_value_rgpf>
+		<job_start_date>43354</job_start_date>
+		<job_finish_date>43430</job_finish_date>
+		<job_finish_date_deferreded>43430</job_finish_date_deferreded>
+		<actual_performance_procent>30</actual_performance_procent>
+		<actual_performance_lari>215100</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact> შპს ერ ტე დე
+/406102550/დირექტორის მ/პ ილია კეკელიძე/598415549</tender_winner_company_contact>
+		<quantitative_indicator>2016</quantitative_indicator>
+		<count_beneficiaries_undirect>1500</count_beneficiaries_undirect>
+		<reg_economy>124763.577405019</reg_economy>
+		<adg_economy>6566.42259498073</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ქალაქ ოზურგეთში ნიკოლაძის ქუჩა, მრავალბინიანი საცხოვრებელი სახლის სკვერის კეთილმოწყობა</project_title>
+		<ganxorcielebis_adgili>ქ.ოზურგეთი</ganxorcielebis_adgili>
+		<category>მრავალბინიანი კორპუსები</category>
+		<year_compensation_amount>52037</year_compensation_amount>
+		<mony_todo_project>49435</mony_todo_project>
+		<co_funding>2602</co_funding>
+		<co_funding_procent>5.00028825643292</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011552</current_tender_number>
+		<tender_announcement_date>43306</tender_announcement_date>
+		<date_signing_contract>43327</date_signing_contract>
+		<contractual_value>49037</contractual_value>
+		<contractual_value_rgpf>46585.008647693</contractual_value_rgpf>
+		<job_start_date>43346</job_start_date>
+		<job_finish_date>43407</job_finish_date>
+		<job_finish_date_deferreded>43407</job_finish_date_deferreded>
+		<actual_performance_procent>85</actual_performance_procent>
+		<actual_performance_lari>41681.45</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact>შპს მშენებელი
+ს/კ 446958490
+574821220</tender_winner_company_contact>
+		<quantitative_indicator>1</quantitative_indicator>
+		<count_beneficiaries_undirect>1200</count_beneficiaries_undirect>
+		<reg_economy>2849.99135230701</reg_economy>
+		<adg_economy>150.008647692988</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>შეკვეთილში შიდა გზების მოწყობის სამუშაოები.</project_title>
+		<ganxorcielebis_adgili>სოფ. შეკვეთილი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>613132</year_compensation_amount>
+		<mony_todo_project>551819</mony_todo_project>
+		<co_funding>61313</co_funding>
+		<co_funding_procent>9.99996738059667</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011831</current_tender_number>
+		<tender_announcement_date>30.07.2018</tender_announcement_date>
+		<date_signing_contract>21.08.2017</date_signing_contract>
+		<contractual_value>539000</contractual_value>
+		<contractual_value_rgpf>485100.175818584</contractual_value_rgpf>
+		<job_start_date>43363</job_start_date>
+		<job_finish_date>43485</job_finish_date>
+		<job_finish_date_deferreded>43819</job_finish_date_deferreded>
+		<actual_performance_procent>30</actual_performance_procent>
+		<actual_performance_lari>161700</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact>შპს "პალადა"/205180472/თბილისი
+ი. ჭავჭავაძის გამზ. N55/მენეჯერი ირაკლი ჩხაიძე 597 222202</tender_winner_company_contact>
+		<quantitative_indicator>830</quantitative_indicator>
+		<count_beneficiaries_undirect>5000</count_beneficiaries_undirect>
+		<reg_economy>66718.8241814161</reg_economy>
+		<adg_economy>7413.17581858393</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>სოფ.ჭანიეთის ცენტრის გავლით სოფ. ქაქუთის დასაწყისამდე გზის (მეორე- მონაკვეთის ) რეაბილიტაცია- მე-2 ეტაპი -2026 გრძ.მ</project_title>
+		<ganxorcielebis_adgili>ჭანიეთი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>951593</year_compensation_amount>
+		<mony_todo_project>856434</mony_todo_project>
+		<co_funding>95159</co_funding>
+		<co_funding_procent>9.9999684739169</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180013497</current_tender_number>
+		<tender_announcement_date>43336</tender_announcement_date>
+		<date_signing_contract>43357</date_signing_contract>
+		<contractual_value>750000</contractual_value>
+		<contractual_value_rgpf>675000.236445623</contractual_value_rgpf>
+		<job_start_date>43396</job_start_date>
+		<job_finish_date>43488</job_finish_date>
+		<job_finish_date_deferreded>0</job_finish_date_deferreded>
+		<actual_performance_lari>0</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს "პალადა"/205180472/თბილისი
+ი. ჭავჭავაძის გამზ. N55/მენეჯერი ირაკლი ჩხაიძე 597 222202</tender_winner_company_contact>
+		<quantitative_indicator>2026</quantitative_indicator>
+		<count_beneficiaries_undirect>1250</count_beneficiaries_undirect>
+		<reg_economy>181433.763554377</reg_economy>
+		<adg_economy>20159.2364456233</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ოზურგეთი</municipalitet>
+		<project_title>ოზურგეთის მუნიციპალიტეტის სოფ. შემოქმედის ცენტრი-გორისფერდის საავტომობილო გზის რეაბილიტაცია მე-2 ეტაპი -1530 გრძ.მ</project_title>
+		<ganxorcielebis_adgili>შემოქმედი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>535000</year_compensation_amount>
+		<mony_todo_project>481500</mony_todo_project>
+		<co_funding>53500</co_funding>
+		<co_funding_procent>10</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180013498</current_tender_number>
+		<tender_announcement_date>43336</tender_announcement_date>
+		<date_signing_contract>43357</date_signing_contract>
+		<contractual_value>527016</contractual_value>
+		<contractual_value_rgpf>474314.4</contractual_value_rgpf>
+		<job_start_date>43389</job_start_date>
+		<job_finish_date>43450</job_finish_date>
+		<job_finish_date_deferreded>43449</job_finish_date_deferreded>
+		<actual_performance_procent>8</actual_performance_procent>
+		<actual_performance_lari>42161.28</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს ,,გზამშენი 18" /237081206/თეიმურაზ ჯახვა/ 599 553551/</tender_winner_company_contact>
+		<quantitative_indicator>1530</quantitative_indicator>
+		<count_beneficiaries_undirect>450</count_beneficiaries_undirect>
+		<reg_economy>7185.6</reg_economy>
+		<adg_economy>798.399999999997</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში დაბა ჩოხატაურში კოსტავას ქუჩაზე სასწრაფო დახმარების ცენტრის შენობის მშენებლობა (IIეტაპი)</project_title>
+		<ganxorcielebis_adgili>დაბა ჩოხატაური</ganxorcielebis_adgili>
+		<category>შენობა-ნაგებობა</category>
+		<year_compensation_amount>15001</year_compensation_amount>
+		<mony_todo_project>14251</mony_todo_project>
+		<co_funding>750</co_funding>
+		<co_funding_procent>4.99966668888741</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180004171</current_tender_number>
+		<tender_announcement_date>43173</tender_announcement_date>
+		<date_signing_contract>43187</date_signing_contract>
+		<contractual_value>15001</contractual_value>
+		<contractual_value_rgpf>14251</contractual_value_rgpf>
+		<job_start_date>43202</job_start_date>
+		<job_finish_date>43232</job_finish_date>
+		<job_finish_date_deferreded>43232</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>15001</actual_performance_lari>
+		<cash_performance_cofinancing_lari>14118</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>13412.1470568629</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს ჯეოონო/416292185/თბილისი დ. აღმაშენებლის 164/ 595320200</tender_winner_company_contact>
+		<quantitative_indicator>1</quantitative_indicator>
+		<count_beneficiaries_undirect>24658</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში სოფელ ქვემო ერკეთიდან მოედანას მიმართულებით სოფელ ბუკისციხის ცენტრამდე საავტომობილო გზაზე ა/ბეტონის საფარის მოწყობა</project_title>
+		<ganxorcielebis_adgili>ქვემო ერკეთი,                იანეული და ბუკისციხე</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>565340</year_compensation_amount>
+		<mony_todo_project>565340</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180007634</current_tender_number>
+		<tender_announcement_date>43237</tender_announcement_date>
+		<date_signing_contract>43264</date_signing_contract>
+		<contractual_value>565328</contractual_value>
+		<contractual_value_rgpf>565328</contractual_value_rgpf>
+		<job_start_date>43283</job_start_date>
+		<job_finish_date>43398</job_finish_date>
+		<job_finish_date_deferreded>43392</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>565328</actual_performance_lari>
+		<cash_performance_cofinancing_lari>549963</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>549963</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>ა/ბეტონის ქარხნის დაზიანების გამო შეფერხებულია</note>
+		<tender_winner_company_contact>შპს New Road /441993112/ქ. თბილისი 995 77 757775</tender_winner_company_contact>
+		<quantitative_indicator>3861</quantitative_indicator>
+		<count_beneficiaries_undirect>1240</count_beneficiaries_undirect>
+		<reg_economy>12</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში ანა კალანდაძის სახელობის პარკის სამშენებლო სამუშაოები</project_title>
+		<ganxorcielebis_adgili>ხიდისთავი</ganxorcielebis_adgili>
+		<category>დასვენების ობიექტები</category>
+		<year_compensation_amount>55366</year_compensation_amount>
+		<mony_todo_project>55366</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180007468</current_tender_number>
+		<tender_announcement_date>43235</tender_announcement_date>
+		<date_signing_contract>43256</date_signing_contract>
+		<contractual_value>54761</contractual_value>
+		<contractual_value_rgpf>54761</contractual_value_rgpf>
+		<job_start_date>43286</job_start_date>
+		<job_finish_date>43376</job_finish_date>
+		<job_finish_date_deferreded>43376</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>54761</actual_performance_lari>
+		<cash_performance_cofinancing_lari>54549</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>54549</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს ,,ჯორჯიან კომპანი'     /        441993032/ ჩოხატაური                             მ. კოსტავას ქ.#6                    551 270 247</tender_winner_company_contact>
+		<quantitative_indicator>1</quantitative_indicator>
+		<count_beneficiaries_undirect>1224</count_beneficiaries_undirect>
+		<reg_economy>605</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში სოფელ ჯვარცხმა-ვაზიანის მიმართულებით არსებული ა/ბეტონის საფარიანი გზის გაგრძელების სამუშაოები</project_title>
+		<ganxorcielebis_adgili>ჯვარცხმა და ვაზიანი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>266893</year_compensation_amount>
+		<mony_todo_project>266893</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180007633</current_tender_number>
+		<tender_announcement_date>43237</tender_announcement_date>
+		<date_signing_contract>43267</date_signing_contract>
+		<contractual_value>266891</contractual_value>
+		<contractual_value_rgpf>266891</contractual_value_rgpf>
+		<job_start_date>43283</job_start_date>
+		<job_finish_date>43398</job_finish_date>
+		<job_finish_date_deferreded>43398</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>266891</actual_performance_lari>
+		<cash_performance_cofinancing_lari>253863</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>253863</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>ა/ბეტონის ქარხნის დაზიანების გამო შეფერხებულია</note>
+		<tender_winner_company_contact>შპს New Road /441993112/ქ. თბილისი 995 77 757775</tender_winner_company_contact>
+		<quantitative_indicator>1100</quantitative_indicator>
+		<count_beneficiaries_undirect>1177</count_beneficiaries_undirect>
+		<reg_economy>2</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში დაბის ადმინისტრაციულ ერთეულში ავტოსადგურის მიმდებარე ტერიტორიაზე შესასვლელი გზის და პარკის რეაბილიტაციის სამუშაოები</project_title>
+		<ganxorcielebis_adgili>დაბა ჩოხატაური</ganxorcielebis_adgili>
+		<category>კეთილმოწყობა</category>
+		<year_compensation_amount>128888</year_compensation_amount>
+		<mony_todo_project>128888</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180007635</current_tender_number>
+		<tender_announcement_date>43237</tender_announcement_date>
+		<date_signing_contract>43264</date_signing_contract>
+		<contractual_value>128888</contractual_value>
+		<contractual_value_rgpf>128888</contractual_value_rgpf>
+		<job_start_date>43278</job_start_date>
+		<job_finish_date>43368</job_finish_date>
+		<job_finish_date_deferreded>43368</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>128888</actual_performance_lari>
+		<cash_performance_cofinancing_lari>127400</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>127400</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს ახალმშენი/404982131/   თბილისი ბალანჩივაძის 39 ბ 65
+        595026373</tender_winner_company_contact>
+		<quantitative_indicator>2</quantitative_indicator>
+		<count_beneficiaries_undirect>2200</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში მერიის შენობის მიმდებარე ტერიტორიის კეთილმოწყობის და გოგებაშვილის ქუჩაზე მინი საკალათბურთო სტადიონის მოწყობის სამუშაოები</project_title>
+		<ganxorcielebis_adgili>დაბა ჩოხატაური</ganxorcielebis_adgili>
+		<category>კეთილმოწყობა</category>
+		<year_compensation_amount>73013</year_compensation_amount>
+		<mony_todo_project>73013</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180007472</current_tender_number>
+		<tender_announcement_date>43235</tender_announcement_date>
+		<date_signing_contract>43264</date_signing_contract>
+		<contractual_value>73012</contractual_value>
+		<contractual_value_rgpf>73012</contractual_value_rgpf>
+		<job_start_date>43276</job_start_date>
+		<job_finish_date>43367</job_finish_date>
+		<job_finish_date_deferreded>43367</job_finish_date_deferreded>
+		<actual_performance_procent>100</actual_performance_procent>
+		<actual_performance_lari>73012</actual_performance_lari>
+		<cash_performance_cofinancing_lari>72990</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>72990</cash_performance_only_rgpf>
+		<acceptance_and_delivery>კი</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>,,ჯორჯიან კომპანი'' /441993032/                          მ. კოსტავას ქ.#6               551 270 247</tender_winner_company_contact>
+		<quantitative_indicator>2</quantitative_indicator>
+		<count_beneficiaries_undirect>2200</count_beneficiaries_undirect>
+		<reg_economy>1</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში დაბის ადმიინისტრაციულ ერთეულში სამრევლო სკოლის წინ ტერიტორიის და N1 საბავშო ბაღის წინ ტერიტორიის კეთილმოწყობის სამუშაოები</project_title>
+		<ganxorcielebis_adgili>დაბა ჩოხატაური</ganxorcielebis_adgili>
+		<category>კეთილმოწყობა</category>
+		<year_compensation_amount>65020</year_compensation_amount>
+		<mony_todo_project>65020</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180010917</current_tender_number>
+		<tender_announcement_date>17.07.2018</tender_announcement_date>
+		<date_signing_contract>07.08.2018</date_signing_contract>
+		<contractual_value>61137</contractual_value>
+		<contractual_value_rgpf>61137</contractual_value_rgpf>
+		<job_start_date>43334</job_start_date>
+		<job_finish_date>43394</job_finish_date>
+		<job_finish_date_deferreded>43394</job_finish_date_deferreded>
+		<actual_performance_procent>50</actual_performance_procent>
+		<actual_performance_lari>30568.5</actual_performance_lari>
+		<cash_performance_cofinancing_lari>12200</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>12200</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>NAT180007473 არ შედგა; სამუშაოები მიმდინარეობს ჯარიმის პირობებში. შეთანხმებული იყო ვადაში დასრულება მაგრამ კომპანიის განცხადებით დაასრულება 15 ნოემბერს </note>
+		<tender_winner_company_contact>შპს ლოდი+/417882839/გორი; ბარნოვის ქ 10ა ბ 37/599018843</tender_winner_company_contact>
+		<quantitative_indicator>2</quantitative_indicator>
+		<count_beneficiaries_undirect>2200</count_beneficiaries_undirect>
+		<reg_economy>3883</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში 9 აპრილის I ჩიხში და დაბის სასაფლაოს მიმართულებით საავტომობილო გზის რეაბილიტაცია, 9 აპრილისა და დუმბაძის ქუჩის შეერთებაზე საავტომობილო გზის რეაბილიტაციის სამუშაოები, 26 ბინიანი სახლის ეზოში ა/ბეტონის საფარის  მოწყობის სამუშაოები,  გურამიშვილის ქუჩის საავტომობილო გზის რეაბილიტაცია, დუმბაძის ქუჩის I ჩიხის საავტომობილო გზის რეაბილიტაცია, ჭავჭავაძის ქუჩის საავტომობილო გზის რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>დაბა ჩოხატაური</ganxorcielebis_adgili>
+		<category>კეთილმოწყობა</category>
+		<year_compensation_amount>296304</year_compensation_amount>
+		<mony_todo_project>296304</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011297</current_tender_number>
+		<tender_announcement_date>43304</tender_announcement_date>
+		<date_signing_contract>43332</date_signing_contract>
+		<contractual_value>292292</contractual_value>
+		<contractual_value_rgpf>292292</contractual_value_rgpf>
+		<job_start_date>43354</job_start_date>
+		<job_finish_date>43414</job_finish_date>
+		<job_finish_date_deferreded>43414</job_finish_date_deferreded>
+		<actual_performance_procent>80</actual_performance_procent>
+		<actual_performance_lari>233833.6</actual_performance_lari>
+		<cash_performance_cofinancing_lari>276844</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>276844</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>ა/ბეტონის ქარხნის დაზიანების გამო შეფერხებულია</note>
+		<tender_winner_company_contact>შპს ახალმშენი/404982131/   თბილისი ბალანჩივაძის 39 ბ 65
+        595026373</tender_winner_company_contact>
+		<quantitative_indicator>550</quantitative_indicator>
+		<count_beneficiaries_undirect>350</count_beneficiaries_undirect>
+		<reg_economy>4012</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში    მოსწავლეახალგაზრდობის სახლის რეაბილიტაცია                     
+</project_title>
+		<ganxorcielebis_adgili>დაბა ჩოხატაური</ganxorcielebis_adgili>
+		<category>შენობა-ნაგებობა</category>
+		<year_compensation_amount>62670</year_compensation_amount>
+		<mony_todo_project>62670</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011300</current_tender_number>
+		<tender_announcement_date>43304</tender_announcement_date>
+		<date_signing_contract>43332</date_signing_contract>
+		<contractual_value>57683</contractual_value>
+		<contractual_value_rgpf>57683</contractual_value_rgpf>
+		<job_start_date>43350</job_start_date>
+		<job_finish_date>43410</job_finish_date>
+		<job_finish_date_deferreded>43410</job_finish_date_deferreded>
+		<actual_performance_procent>50</actual_performance_procent>
+		<actual_performance_lari>28841.5</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact>შპს გუდა-1979/438725836/
+თბილისი, ტელ:574223333</tender_winner_company_contact>
+		<quantitative_indicator>1</quantitative_indicator>
+		<count_beneficiaries_undirect>2200</count_beneficiaries_undirect>
+		<reg_economy>4987</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში    მხარეთმცოდნეობის მუზეუმის  შენობის ფასადისა და სახურავის რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>დაბა ჩოხატაური</ganxorcielebis_adgili>
+		<category>კეთილმოწყობა</category>
+		<year_compensation_amount>97341</year_compensation_amount>
+		<mony_todo_project>97341</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011303</current_tender_number>
+		<tender_announcement_date>43304</tender_announcement_date>
+		<date_signing_contract>43332</date_signing_contract>
+		<contractual_value>93713</contractual_value>
+		<contractual_value_rgpf>93713</contractual_value_rgpf>
+		<job_start_date>43357</job_start_date>
+		<job_finish_date>43417</job_finish_date>
+		<job_finish_date_deferreded>43417</job_finish_date_deferreded>
+		<actual_performance_procent>35</actual_performance_procent>
+		<actual_performance_lari>32799.55</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact> შპს ჯორჯიან ბილდინგ კომპანი
+/401978124/599566351
+ავთანდილ კობიძე</tender_winner_company_contact>
+		<quantitative_indicator>1</quantitative_indicator>
+		<count_beneficiaries_undirect>2000</count_beneficiaries_undirect>
+		<reg_economy>3628</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში    სოფელ ფარცხმაში სასმელ-საყოფაცხოვრებო და სამეურნეო წყალმომარაგების გაუმჯობესება</project_title>
+		<ganxorcielebis_adgili>სოფ.ფარცხმა</ganxorcielebis_adgili>
+		<category>წყალმომარაგება</category>
+		<year_compensation_amount>348925</year_compensation_amount>
+		<mony_todo_project>348925</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>	NAT180011299</current_tender_number>
+		<tender_announcement_date>43304</tender_announcement_date>
+		<date_signing_contract>43332</date_signing_contract>
+		<contractual_value>300000</contractual_value>
+		<contractual_value_rgpf>300000</contractual_value_rgpf>
+		<job_start_date>11.09.2018</job_start_date>
+		<job_finish_date>43474</job_finish_date>
+		<job_finish_date_deferreded>43474</job_finish_date_deferreded>
+		<actual_performance_procent>30</actual_performance_procent>
+		<actual_performance_lari>90000</actual_performance_lari>
+		<cash_performance_cofinancing_lari>60000</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>60000</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact> შპს"ჰიდრო და საინჟინრო გეოლოგია 2011"</tender_winner_company_contact>
+		<quantitative_indicator>1446</quantitative_indicator>
+		<count_beneficiaries_undirect>200</count_beneficiaries_undirect>
+		<reg_economy>48925</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში    ბურნათი-წიფნარის დამაკავშირებელი გზის რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>ბურნათი-წიფნარი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>207350</year_compensation_amount>
+		<mony_todo_project>207350</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011298</current_tender_number>
+		<tender_announcement_date>23.07.2018</tender_announcement_date>
+		<date_signing_contract>20.08.2018</date_signing_contract>
+		<contractual_value>180000</contractual_value>
+		<contractual_value_rgpf>180000</contractual_value_rgpf>
+		<job_start_date>43346</job_start_date>
+		<job_finish_date>43436</job_finish_date>
+		<job_finish_date_deferreded>43424</job_finish_date_deferreded>
+		<actual_performance_procent>20</actual_performance_procent>
+		<actual_performance_lari>36000</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact> შპს Georgian Build
+404977833
++99599495020</tender_winner_company_contact>
+		<quantitative_indicator>1100</quantitative_indicator>
+		<count_beneficiaries_undirect>1100</count_beneficiaries_undirect>
+		<reg_economy>27350</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში    ბერეჟოულის შესახვევიდან სოფელ გორას მიმართულებით  დამაკავშირებელი გზის რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>გორაბერეჟოული</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>146800</year_compensation_amount>
+		<mony_todo_project>146800</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011302</current_tender_number>
+		<tender_announcement_date>23.07.2018</tender_announcement_date>
+		<date_signing_contract>43332</date_signing_contract>
+		<contractual_value>146800</contractual_value>
+		<contractual_value_rgpf>146800</contractual_value_rgpf>
+		<job_start_date>43346</job_start_date>
+		<job_finish_date>43436</job_finish_date>
+		<job_finish_date_deferreded>43436</job_finish_date_deferreded>
+		<actual_performance_procent>70</actual_performance_procent>
+		<actual_performance_lari>102760</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact> შპს Georgian Build
+404977833
++99599495020</tender_winner_company_contact>
+		<quantitative_indicator>800</quantitative_indicator>
+		<count_beneficiaries_undirect>2300</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში 9 აპრილის სახელობის სკვერის რეაბილიტაცია  და აგრარული ბაზრის მიმდებარე 
+ტერიტორიის რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>დაბა ჩოხატაური</ganxorcielebis_adgili>
+		<category>კეთილმოწყობა</category>
+		<year_compensation_amount>120455</year_compensation_amount>
+		<mony_todo_project>120455</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180011304</current_tender_number>
+		<tender_announcement_date>43304</tender_announcement_date>
+		<date_signing_contract>43332</date_signing_contract>
+		<contractual_value>120455</contractual_value>
+		<contractual_value_rgpf>120455</contractual_value_rgpf>
+		<job_start_date>43348</job_start_date>
+		<job_finish_date>43408</job_finish_date>
+		<job_finish_date_deferreded>43408</job_finish_date_deferreded>
+		<actual_performance_procent>60</actual_performance_procent>
+		<actual_performance_lari>72273</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>მიმდინარეობს სამუშაოები</note>
+		<tender_winner_company_contact>ზიმო-7/245424919/ბათუმი/595220775</tender_winner_company_contact>
+		<quantitative_indicator>2</quantitative_indicator>
+		<count_beneficiaries_undirect>5000</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>სოფ.კოხნარი-ნაკადულის შიგა სასოფლო გზის რეაბილიტაცია და სოფ.საჭამიასერის ცენტრიდან კალაგონის მიმართულებით შიგა სასოფლო გზის რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>კოხნარი
+ნაკადული
+საჭამიასერი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>109956</year_compensation_amount>
+		<mony_todo_project>109956</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180013987</current_tender_number>
+		<tender_announcement_date>43346</tender_announcement_date>
+		<date_signing_contract>43367</date_signing_contract>
+		<contractual_value>85558</contractual_value>
+		<contractual_value_rgpf>85558</contractual_value_rgpf>
+		<job_start_date>43384</job_start_date>
+		<job_finish_date>43444</job_finish_date>
+		<job_finish_date_deferreded>43444</job_finish_date_deferreded>
+		<actual_performance_procent>10</actual_performance_procent>
+		<actual_performance_lari>8555.8</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>NAT180012755  შეწყვეტილია ტექნიკური ხარვეზის გამო; სამუშაოები მიმდინარეობს</note>
+		<tender_winner_company_contact>შპს"წალენჯიხის საგზაო სამმართველო"</tender_winner_company_contact>
+		<quantitative_indicator>580</quantitative_indicator>
+		<count_beneficiaries_undirect>1873</count_beneficiaries_undirect>
+		<reg_economy>24398</reg_economy>
+		<adg_economy>0</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტში საბავშვო ბაღების რეაბილიტაცია</project_title>
+		<ganxorcielebis_adgili>0</ganxorcielebis_adgili>
+		<category>საბავშვო ბაღები</category>
+		<year_compensation_amount>231696</year_compensation_amount>
+		<mony_todo_project>231696</mony_todo_project>
+		<co_funding>0</co_funding>
+		<co_funding_procent>0</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180014406</current_tender_number>
+		<tender_announcement_date>43350</tender_announcement_date>
+		<date_signing_contract>43371</date_signing_contract>
+		<contractual_value>0</contractual_value>
+		<contractual_value_rgpf>0</contractual_value_rgpf>
+		<job_start_date>0</job_start_date>
+		<job_finish_date>0</job_finish_date>
+		<job_finish_date_deferreded>43454</job_finish_date_deferreded>
+		<actual_performance_procent>0</actual_performance_procent>
+		<actual_performance_lari>0</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>NAT180012756 - არ შედგა; გამოცხადდა მეორე ტენდერი; გამარჯვებული გამოვლენილია;;  სავარაუდოდ გაფორმდება 30 ოქტომბრეს</note>
+		<tender_winner_company_contact>0</tender_winner_company_contact>
+		<quantitative_indicator>19</quantitative_indicator>
+		<count_beneficiaries_undirect>681</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>ჩოხატაურის მუნიციპალიტეტის ზომლეთის ადმინისტრაციულ ერთეულში, სოფ.ვანში შიდა გზაზე ა/ბეტონის საფარის მოწყობა</project_title>
+		<ganxorcielebis_adgili>ვანი</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>508657</year_compensation_amount>
+		<mony_todo_project>483224</mony_todo_project>
+		<co_funding>25433</co_funding>
+		<co_funding_procent>5.00002948942018</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180013766</current_tender_number>
+		<tender_announcement_date>43342</tender_announcement_date>
+		<date_signing_contract>43363</date_signing_contract>
+		<contractual_value>493888</contractual_value>
+		<contractual_value_rgpf>469193.454355292</contractual_value_rgpf>
+		<job_start_date>43392</job_start_date>
+		<job_finish_date>43482</job_finish_date>
+		<job_finish_date_deferreded>0</job_finish_date_deferreded>
+		<actual_performance_procent>0</actual_performance_procent>
+		<actual_performance_lari>0</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact> შპს ნიუპოვერ                             /415094141/                          მალხაზი სარჯველაძე          	+995595222220</tender_winner_company_contact>
+		<quantitative_indicator>2465</quantitative_indicator>
+		<count_beneficiaries_undirect>1200</count_beneficiaries_undirect>
+		<reg_economy>14030.5456447075</reg_economy>
+		<adg_economy>738.454355292465</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>დაბა ჩოხატაურში გოგებაშვილის ქუჩის Iჩიხის საავტომობილო გზის კეთილმოწყობა (0,168 გრძ.მ-45 441ლ), გოგიბერიძის ქუჩის გაგრძელებაზე მ.ახობაძის უბანში საავტომობილო გზის რეაბილიტაცია (0.2 გრძ.მ-72 589ლ) და  ნიკო მარის ქუჩაზე საავტომობილო გზის კეთილმოწყობა (0.155 გრძ.მ-18 256ლ)</project_title>
+		<ganxorcielebis_adgili>გოგებაშვილის ქუჩის Iჩიხის  , გოგიბერიძის ქუჩის გაგრძელებაზე მ.ახობაძის უბანში  და  ნიკო მარის ქუჩებზე </ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>136286</year_compensation_amount>
+		<mony_todo_project>129471</mony_todo_project>
+		<co_funding>6815</co_funding>
+		<co_funding_procent>5.0005136257576</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180013852</current_tender_number>
+		<tender_announcement_date>43343</tender_announcement_date>
+		<date_signing_contract>43364</date_signing_contract>
+		<contractual_value>0</contractual_value>
+		<contractual_value_rgpf>0</contractual_value_rgpf>
+		<job_start_date>0</job_start_date>
+		<job_finish_date>0</job_finish_date>
+		<job_finish_date_deferreded>0</job_finish_date_deferreded>
+		<actual_performance_procent>0</actual_performance_procent>
+		<actual_performance_lari>0</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>გამარჯვებული გამოვლენილია; სავარაუდოდ ხელშეკრულება გაფორმდება 29 ოქტომბრამდე</note>
+		<tender_winner_company_contact>0</tender_winner_company_contact>
+		<quantitative_indicator>543</quantitative_indicator>
+		<count_beneficiaries_undirect>2000</count_beneficiaries_undirect>
+		<reg_economy>false</reg_economy>
+		<adg_economy>false</adg_economy>
+	</record>
+	<record>
+		<region>გურია</region>
+		<municipalitet>ჩოხატაური</municipalitet>
+		<project_title>სოფ.გორაბერეჟოული-ჯვარცხმის გზის სავალი ნაწილის აღდგენის  სამუშაოები</project_title>
+		<ganxorcielebis_adgili>გორაბერეჟოული-ჯვარცხმა</ganxorcielebis_adgili>
+		<category>გზები</category>
+		<year_compensation_amount>88839</year_compensation_amount>
+		<mony_todo_project>84397</mony_todo_project>
+		<co_funding>4442</co_funding>
+		<co_funding_procent>5.00005628158804</co_funding_procent>
+		<buying_purchase>ელექტრონული ტენდერი</buying_purchase>
+		<current_tender_number>NAT180013851</current_tender_number>
+		<tender_announcement_date>43343</tender_announcement_date>
+		<date_signing_contract>43364</date_signing_contract>
+		<contractual_value>86927</contractual_value>
+		<contractual_value_rgpf>82580.601076104</contractual_value_rgpf>
+		<job_start_date>43377</job_start_date>
+		<job_finish_date>43438</job_finish_date>
+		<job_finish_date_deferreded>43438</job_finish_date_deferreded>
+		<actual_performance_procent>30</actual_performance_procent>
+		<actual_performance_lari>26078.1</actual_performance_lari>
+		<cash_performance_cofinancing_lari>0</cash_performance_cofinancing_lari>
+		<cash_performance_only_rgpf>0</cash_performance_only_rgpf>
+		<acceptance_and_delivery>0</acceptance_and_delivery>
+		<note>0</note>
+		<tender_winner_company_contact>შპს ახალმშენი/404982131/   თბილისი ბალანჩივაძის 39 ბ 65
+        595026373</tender_winner_company_contact>
+		<quantitative_indicator>700</quantitative_indicator>
+		<count_beneficiaries_undirect>1500</count_beneficiaries_undirect>
+		<reg_economy>1816.39892389604</reg_economy>
+		<adg_economy>95.6010761039633</adg_economy>
+	</record>
+</data-set>
