@@ -297,7 +297,9 @@ class MrdisController extends Controller
 				$data->data[$i][] = (string)$output;
 			}
 		}
-		$out->setData($data);
+
+        $out->setData($data);
+
 		return $out;
 	}
 }

@@ -217,7 +217,7 @@
 	</ul>
 
 </div>
-
+        <a href="{{ route('merdiExcelExport') }}">ბაზაში არსებული ყველა ჩანაწერის ექსპორტი Excel ში </a>
 </div>
 
 <style type="text/css">
@@ -340,7 +340,7 @@ margin-left: 12px;
 
 
 <div class="panel panel-default">
-     <div class="row">
+     <div class="row" style="margin-left:15px;">
         <h4 class="sumAmount"></h4>
         <h4 class="projectAmount"></h4>
     </div>
@@ -449,11 +449,31 @@ margin-left: 12px;
 
 @push('styles')
 <link rel="stylesheet" type="text/css" href="{{ asset('la-assets/plugins/datatables/datatables.min.css') }}"/>
+<!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css"/>-->
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.2/css/buttons.dataTables.min.css"/>
+<!--<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/buttons/1.5.1/css/buttons.dataTables.min.css"/>-->
+
+
 @endpush
 
 @push('scripts')
 <script src="{{ asset('la-assets/plugins/datatables/datatables.min.js') }}"></script>
+
+<!--<script src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>-->
+
+<script src="https://cdn.datatables.net/buttons/1.5.2/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.flash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/pdfmake.min.js"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.36/vfs_fonts.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.html5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.print.min.js"></script>
+
+
+
 <script>
+
+
    var params = {};
    var table;
    
@@ -488,6 +508,14 @@ $(function () {
 		processing: true,
         serverSide: true,
         "pageLength": 25,
+        "dom": 'lBfrtip',
+        "buttons": [
+           'copy',
+//            'csv',
+            'excel', 
+//            'pdf',
+            'print'
+        ],
         "order": [[ 0, "desc" ]],
         ajax: "{{ url(config('laraadmin.adminRoute') . '/mrdi_dt_ajax') }}",
 		language: {
@@ -495,6 +523,7 @@ $(function () {
 			search: "_INPUT_",
 			searchPlaceholder: "Search"
 		},
+      
 		@if($show_actions)
 		  columnDefs: [ { orderable: false, targets: [-1] }],
 		@endif
@@ -519,13 +548,22 @@ $(function () {
         
         var table = $("#example1").DataTable({
         "pageLength": 25,
+        "dom": 'lBfrtip',
+        "buttons": [
+           'copy',
+//            'csv',
+            'excel', 
+//            'pdf',
+            'print'
+        ],
         "order": [[ 0, "desc" ]],
         "ajax": {
             "url"  : "{{ url(config('laraadmin.adminRoute') . '/where_mrdi_dt_ajax') }}",
             "data": {
                 "params" : params
             }
-        }
+        },
+   
         });
         
         getBudgetSums();
@@ -551,13 +589,22 @@ $(function () {
         
         var table = $("#example1").DataTable({
         "pageLength": 25,
+        "dom": 'lBfrtip',
+        "buttons": [
+           'copy',
+//            'csv',
+            'excel', 
+//            'pdf',
+            'print'
+        ],
         "order": [[ 0, "desc" ]],
         "ajax": {
             "url"  : "{{ url(config('laraadmin.adminRoute') . '/where_mrdi_dt_ajax') }}",
             "data": {
                 "params" : params
             }
-        }
+        },
+      
         });
          getBudgetSums();
     }

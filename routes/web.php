@@ -15,7 +15,7 @@ Route::get('/', function () {
     return redirect('/admin');
 });
 
-Route::get('/home', 'ExcelParserConrtoller@main');
+Route::get('/merdiExcelExport', 'ExcelParserConrtoller@excelExportMrdi')->name('merdiExcelExport');
 //Route::match(['get','post'],'/','ExcelParserConrtoller@parseExcel')->name('main');
 
 Route::get('/getGov_pice','HomeController@getGov_pice')->name('getGov_pice');

@@ -18,16 +18,13 @@ use SimpleXMLElement;
 use Maatwebsite\Excel\Concerns\FromCollection;
 use Maatwebsite\LaravelNovaExcel\Actions\DownloadExcel;
 
-//use App\Export;
-
 class ExcelParserConrtoller extends Controller
 {
     public $listing_cols = ['id', 'region', 'municipalitet', 'project_title'];
-    public function main()
+    
+    public function excelExportMrdi()
     {
-       
-//        return Excel::download(new Export, 'Export.xlsx');
-                        
+                               
         $module_fields = \DB::table('module_fields')->select(['colname','label'])->where('module',15)->get();
         
         $colnames = [];
@@ -50,29 +47,11 @@ class ExcelParserConrtoller extends Controller
             return get_object_vars($item);
         });
          $result = $resultData->toArray();
-//         $cleared = $resultData->toArray();
-//        dd( array_values ($cleared[0])  );
-//        dd( $cleared  );
-//        dd( $result->toArray() );
-//        $result = (json_decode( json_encode($data), true) );
-//        dd($result);
+
         Excel::create('mrdi', function($excel) use( $result,$colnames,$labels ) {
-//            dd($colnames);
+
             $excel->sheet('Sheet1', function($sheet) use( $result,$colnames,$labels ) {
-//         dd( array_values ($result[0]) ) ;
-//                $sheet->setCellValue('A1', 'some first');
-//                $sheet->setCellValue('B1', 'some second');
-//                $sheet->setCellValue('C1', 'some third');
-//                $sheet->setCellValue('D1', 'some fourth');
-//
-////                $sheet->cell('A1', function($cell) {$cell->setValue('First Name');   });
-//      
-//                $sheet->fromArray( array(
-//                    array('data1', 'data2','data3','data3'),
-//                    array('data4', 'data5','data6','data3'),
-//                    array('data4', 'data5','data6','data3'),
-//                    array('data4', 'data5','data6','data3')
-//                ) );
+
                 $sheet->row(1,$labels );
    
                  $i = 2;
@@ -83,22 +62,11 @@ class ExcelParserConrtoller extends Controller
               $i++;
               $j++;
             }
-         
 //                $sheet->setAutoFilter();
-                
-                
+                            
             });
         })->export('xls');
-//       Excel::create('govexcel', function($excel) {
-//            $excel->sheet('Sheetname', function($sheet) {
-//                $sheet->fromArray(array(
-//                    array('data1', 'data2'),
-//                    array('data3', 'data4')
-//                ));
-//            });
-//        })->export('xls');
         
-        dd($result);
     }
     
    public function parseExcel(Request $request)
