@@ -38,7 +38,8 @@ class HomeController extends Controller
             abort(404); 
         }
       
-        $result = \DB::select('SELECT SUM(gov_pice) as amount FROM twotestmodules where name = :name', [ 'name' => $region]);
+        $result = \DB::select('SELECT SUM(mony_todo_project) as amount FROM mrdis where region = :region', [ 'region' => $region]);
+
         
         if(!empty($result))
         {
@@ -49,20 +50,14 @@ class HomeController extends Controller
     
     public function getGov_pice()
     {
-        $result = \DB::select('select SUM(gov_pice) as amount from twotestmodules');
-        if(!empty($result))
-        {
-          return  $result[0]->amount;
-        }
+         return \DB::select('select SUM(mony_todo_project) as amount FROM mrdis')[0]->amount;
+       
     }
     
     public function getBudgetSums(Request $request)
     {
         $res = $request->params;
-//        dd($res);
-//        $result = \DB::select('select SUM(gov_budget_local) as budgetMoney,SUM(year_compensation_amount) as projectAmount from mrdis')->where($res)->get();
-        
-//       $result =  \DB::table('mrdis')->sum('gov_budget_local')->where($res)->get();
+
         $result = \DB::table('mrdis')->select(\DB::raw('SUM(year_compensation_amount) as sumAmount'),\DB::raw('SUM(mony_todo_project) as projectAmount'))->where($res)->get();
         
          return response()->json($result);

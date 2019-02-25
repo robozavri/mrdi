@@ -259,8 +259,8 @@ class MrdisController extends Controller
 	{
 
         $res = $request->params;
-
-        if(count($request->params) == 0){
+                   
+        if(!$request->has('params') || count($request->params) == 0){
               
             $values = DB::table('mrdis')->select($this->listing_cols)->whereNull('deleted_at');
         }else{
@@ -299,7 +299,6 @@ class MrdisController extends Controller
 		}
 
         $out->setData($data);
-
 		return $out;
 	}
 }

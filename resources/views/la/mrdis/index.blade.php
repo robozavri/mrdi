@@ -469,13 +469,21 @@ margin-left: 12px;
 <script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.html5.min.js"></script>
 <script src="https://cdn.datatables.net/buttons/1.5.2/js/buttons.print.min.js"></script>
 
-
-
 <script>
-
 
    var params = {};
    var table;
+    
+    //გამოვიტანოთ არჩეული პარამეტრები თეგების სახით
+    function extractParams(){
+           
+        $('.parametrs').empty();
+        
+        
+        Object.keys(params).forEach(function(key) {
+             $('.parametrs').append('<button onclick="removeEl(this)" class="choosParam btn btn-default" field="'+key+'">'+params[key]+' <span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>');
+        });
+    }
    
     // სერვერიდან იღებს ჯამურ მონაცემებს იმ პარამეტრების საფუძველზე რითიც ცხრილი დაიფილტრა
     function getBudgetSums(){
@@ -501,6 +509,8 @@ margin-left: 12px;
            }
     });
     }
+    
+    
     
 $(function () {
     
@@ -538,10 +548,15 @@ $(function () {
 
             var field = $(this).attr('field');
             var value =  $(this).text() ;
+            
+        if(field == 'region'){
+            
+        }
 
             params[field] = value; 
 
-        $('.parametrs').append('<button onclick="removeEl(this)" class="choosParam btn btn-default" field="'+field+'">'+value+' <span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>');
+            extractParams();
+//        $('.parametrs').append('<button onclick="removeEl(this)" class="choosParam btn btn-default" field="'+field+'">'+value+' <span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>');
 
         $("#example1").dataTable().fnDestroy();
         
@@ -572,8 +587,14 @@ $(function () {
 
     // რეგიონის ჯამს ითვლის
     $('.search-btn').on('click', function(){
-	   getGov_piceByRegion($(this).text());
-
+            
+            var field = $(this).attr('field');
+            var value =  $(this).text() ;
+            
+            if(field == 'region'){
+                  getGov_piceByRegion(value);
+            }
+	 
 	});
 
 	$(':input').not('input[type=search]').removeAttr('placeholder');
@@ -581,9 +602,13 @@ $(function () {
     
      function removeEl(e){
     
+                  
        var fil = $(e).attr('field');
        delete params[fil];
        $(e).remove();
+     
+         
+         extractParams();
          
        $("#example1").dataTable().fnDestroy();
         
@@ -609,7 +634,9 @@ $(function () {
          getBudgetSums();
     }
     
+    
 $( document ).ready(function() {
+    
      $.ajax({
                url  : "{{ route('getGov_pice')}}",
                type : "GET",
@@ -640,8 +667,7 @@ $( document ).ready(function() {
                data : {region : region, _token : _token},
             success :  function(data){
             	$('.content-header').empty();
-                  $('.content-header').append('<div class="sumOfmonyTodoProject"> '+region+ '  – სახელმწიფო ბიუჯეტის წილი : '+data+'</div>');
-              
+                  $('.content-header').append('<div class="sumOfmonyTodoProject"> '+region+ '  – სახელმწიფო ბიუჯეტის წილი : '+data+'</div>');              
             },
               error :  function(data){},
          beforeSend :  function(data){},
