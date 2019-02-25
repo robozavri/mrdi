@@ -210,7 +210,7 @@ class MrdisController extends Controller
 	public function dtajax()
 	{
         
-		$values = DB::table('mrdis')->select($this->listing_cols)->whereNull('deleted_at');
+		$values = DB::table('mrdis')->select($this->listing_cols)->whereNull('deleted_at')->orderBy('id', 'desc');
 
 		$out = Datatables::of($values)->make();
 		$data = $out->getData();
@@ -262,9 +262,9 @@ class MrdisController extends Controller
                    
         if(!$request->has('params') || count($request->params) == 0){
               
-            $values = DB::table('mrdis')->select($this->listing_cols)->whereNull('deleted_at');
+            $values = DB::table('mrdis')->select($this->listing_cols)->whereNull('deleted_at')->orderBy('id', 'desc');
         }else{
-            $values = DB::table('mrdis')->select($this->listing_cols)->whereNull('deleted_at')->where($res);
+            $values = DB::table('mrdis')->select($this->listing_cols)->whereNull('deleted_at')->where($res)->orderBy('id', 'desc');
         }
 
 		$out = Datatables::of($values)->make();

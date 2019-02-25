@@ -478,8 +478,7 @@ margin-left: 12px;
     function extractParams(){
            
         $('.parametrs').empty();
-        
-        
+                
         Object.keys(params).forEach(function(key) {
              $('.parametrs').append('<button onclick="removeEl(this)" class="choosParam btn btn-default" field="'+key+'">'+params[key]+' <span class="glyphicon glyphicon-remove" aria-hidden="true"></span></button>');
         });
